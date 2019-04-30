@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "name": "Carlos Paradis",
+    "label": "Research Assistant",
+    "picture": "https://carlosparadis.github.io/images/profile_portfolio.png",
+    "email": "cvas@hawaii.edu",
+    "phone": "",
+    "website": "https://carlosparadis.github.io",
+    "summary": "I am a PhD student in Computer Science. My dissertation seeks to create a framework to predict software vulnerabilities both in code and online discussion on the web.",
     "location": {
       "address": "",
       "postalCode": "96822",
@@ -17,41 +17,19 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
-      },
-      {
-        "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "carlosparadis",
+        "url": "https://carlosparadis.github.io"
       }
     ]
   },
   "interests": [
-    {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
     {
       "name": "data mining",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "software vulnerabilities",
       "keywords": [
       ]
     }
@@ -61,32 +39,17 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
-        "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
-      ]
-    },
-    {
-      "name": "Toolsets/OS",
-      "level": "",
-      "keywords": [
-        "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "R",
+        "Python"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "area": "Computer Science",
+      "studyType": "PhD",
+      "startDate": "",
       "endDate": "Present",
       "gpa": "",
       "courses": [
