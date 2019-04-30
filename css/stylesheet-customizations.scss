@@ -5,18 +5,68 @@
 // Put your custom CSS here if you want to override the defaults.
 // Here are some common customizations for colors
 
+$uh-green-official: #024731;
+$uh-green: lighten($uh-green-official, 5%);
+$uh-green-light: lighten($uh-green-official, 10%);
+
 // Customize the background color
-body {
-  // background-color: #f2f2f2;;
+/*body {
+
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/3/38/UniversityHawaiiManoaCampusRoundtop.jpg");
+  background-size: auto;
+  background-position: center;
+  background-repeat: no-repeat;
+}*/
+
+#uh-main {
+  background: url("https://upload.wikimedia.org/wikipedia/commons/3/38/UniversityHawaiiManoaCampusRoundtop.jpg");
+  background-size: auto;
+  background-position: center;
+  background-repeat: no-repeat;
 }
 
 // Customize the menubar color
 .ui.menu {
-  // background: $background-start;
+  background: $uh-green-light;
+
+  a.item {
+    color: white;
+
+    &:hover {
+      color: white;
+      background-color: $uh-green;
+    }
+  }
+
+  a.active.item, a.active.item:hover {
+    color: white;
+    background-color: $uh-green;
+  }
+}
+
+a.ui.bottom.attached.button, div.ui.basic.label {
+  color: white;
+  background: $uh-green-light;
+}
+
+a {
+  color: $uh-green-light;
+  &:hover {
+    color: $uh-green;
+  }
+}
+
+.ui.basic.button:focus, .ui.basic.button:hover, .ui.basic.buttons .button:focus, .ui.basic.buttons .button:hover {
+  background: $uh-green-light;
+  background-color: $uh-green-light;
+}
+
+.uh {
+  background: $uh-green-light;
+  background-color: $uh-green-light;
 }
 
 // Customize the home page icon colors
 .icon-color {
-  // color: silver;
+  color: $uh-green-light;
 }
-
