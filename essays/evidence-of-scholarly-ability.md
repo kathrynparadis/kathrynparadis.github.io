@@ -148,7 +148,9 @@ UxAS use case.
 
 **Reference:** Carlos Paradis. *Probabilistic models for one-day ahead solar irradiance Forecasting in renewable energy applications on oahu*. Master’s thesis, University of Hawaii at Manoa, School of Innovation, Design and Engineering, 2016.
 
-**Access**: [Full Paper](https://drive.google.com/file/d/1oi3DHO8Yxht2IM5hRPXoeph1r5FjR05N/view?usp=sharing)| [Slides](https://docs.google.com/presentation/d/1mbiXtc1KFw2f-efUEkrwEuepceGJJ-iFXjgLf6bnCvU/edit?usp=sharing).
+**Access**: 
+ * [Full Paper](https://drive.google.com/file/d/1oi3DHO8Yxht2IM5hRPXoeph1r5FjR05N/view?usp=sharing)
+ * [Slides](https://docs.google.com/presentation/d/1mbiXtc1KFw2f-efUEkrwEuepceGJJ-iFXjgLf6bnCvU/edit?usp=sharing).
 
 ## 4. Technical Reports
 
