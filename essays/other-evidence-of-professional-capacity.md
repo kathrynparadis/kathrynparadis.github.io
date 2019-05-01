@@ -90,8 +90,9 @@ I waive my FERPA rights for the recommendation letters. The letters will be subm
 
 ## 7. Fellowships and Funding Awards 
 
- * ICS Achievement Scholarship (Fall 2017, 2018)
- * [Science Without Borders](https://en.wikipedia.org/wiki/Ci%C3%AAncia_sem_Fronteiras) - Capes and LASPAU (Spring 2012, Fall 2012)
+ * NASA award 80NSSC18M0114 (Fall 2018 - Current).
+ * ICS Achievement Scholarship (Fall 2017, 2018).
+ * [Science Without Borders](https://en.wikipedia.org/wiki/Ci%C3%AAncia_sem_Fronteiras) - Capes and LASPAU (Spring 2012, Fall 2012).
 
 ## 8. More Details
 
