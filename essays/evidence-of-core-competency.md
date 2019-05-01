@@ -8,11 +8,11 @@ labels:
 
 *This page presents evidence of my core competencies in computer science as required for the [ICS Ph.D. Portfolio](http://www.ics.hawaii.edu/academics/graduate-degree-programs/ph-d-in-ics/#phd-portfolio). This includes evidence for my M.S. degree and the results of my qualifying exam.*
 
-## Evidence of MS degree
+## 1. Evidence of MS degree
 
-* MS Degree Certificate: Filed with ICS Department
+MS Degree Certificate: Filed with ICS Department
 
-## Results of Qualifying Exam
+## 2. Results of Qualifying Exam
 
 * Passed on December 10th, 2018
 * Other conditions: None
