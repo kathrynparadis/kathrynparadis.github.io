@@ -54,7 +54,7 @@ UxAS use case.
 
 **Access:** [Full Paper](https://ieeexplore.ieee.org/document/8614146)
 
-**Abstract:** Abstract—Despite efforts in the security community to quickly index and disseminate vulnerabilities as they are discovered and addressed, there are concerns about how to scale up the knowledge management of vulnerabilities given its dramatic growth rate. To address these concerns, recent research shifted towards more proactive approaches, in particular leveraging text mining methods to improve vulnerability identification and dissemination to security investigators. While providing a starting point for understanding vulnerability trends, recent methods are still reliant on curated identifiers, such as ‘CVE-\*’, hence missing the majority of cybersecurity activity. We show that we can leverage overlapping textual themes in software vulnerabilities to identify related software vulnerability discussions without prior knowledge of identifiers. Our method obtained 86% accuracy in identifying related vulnerabilities with minimal pre-processing in a noisy community.
+**Abstract:** Despite efforts in the security community to quickly index and disseminate vulnerabilities as they are discovered and addressed, there are concerns about how to scale up the knowledge management of vulnerabilities given its dramatic growth rate. To address these concerns, recent research shifted towards more proactive approaches, in particular leveraging text mining methods to improve vulnerability identification and dissemination to security investigators. While providing a starting point for understanding vulnerability trends, recent methods are still reliant on curated identifiers, such as ‘CVE-\*’, hence missing the majority of cybersecurity activity. We show that we can leverage overlapping textual themes in software vulnerabilities to identify related software vulnerability discussions without prior knowledge of identifiers. Our method obtained 86% accuracy in identifying related vulnerabilities with minimal pre-processing in a noisy community.
 
 **My Contribution**:
 
@@ -73,9 +73,11 @@ UxAS use case.
 
 ### 1.5 Probabilistic Models for One-Day Ahead Solar Irradiance Forecasting in Renewable Energy Applications
 
-**Reference**: **SILVA, Carlos V. A.** ; LIM, Lipyeow ; STEVENS, Duane ; NAKAFUJI, Dora. Probabilistic Models for One-Day Ahead Solar Irradiance Forecasting in Renewable Energy Applications. Special Track on Machine Learning on Energy Applications. Internacional Conference on Machine Learning and Applications 2015.
+**Reference**: **SILVA, Carlos V. A.** ; LIM, Lipyeow ; STEVENS, Duane ; NAKAFUJI, Dora. Probabilistic Models for One-Day Ahead Solar Irradiance Forecasting in Renewable Energy Applications. Special Track on Machine Learning on Energy Applications. Internacional Conference on Machine Learning and Applications 2015. 10.1109/ICMLA.2015.137.
 
-**Access:** [Full Paper](https://)
+**Access:** [Full Paper](https://ieeexplore.ieee.org/document/7424477)
+
+**Abstract**: Solar irradiance forecasting is an important problem in renewable energy management where any dips in solar energy generation must be made up for by reserves in order to ensure an uninterrupted energy supply. In this paper, we study several data mining methods for short term solar irradiance forecasting at a given location. In particular, we apply linear regression, probabilistic models, and naive Bayes classifier to forecast solar irradiance one day ahead, i.e., we forecast what tomorrow's solar irradiance will be like at sundown today. We evaluate the forecasting performance of our adaptations of the three models using land-based weather data from several weather stations on the island of Oahu in Hawai'i.
 
 **My Contribution**:
 
@@ -86,7 +88,9 @@ UxAS use case.
 
 **Reference**: Martin Naedele, Hong-Mei Chen, Rick Kazman, Yuanfang Cai, Lu Xiao, **Carlos V.A. Silva** , Manufacturing execution systems: A vision for managing software development, Journal of Systems and Software, Volume 101, March 2015, Pages 59-68, ISSN 0164-1212, http://dx.doi.org/10.1016/j.jss.2014.11.015.
 
-**Access:** [Full Paper](https://)
+**Access:** [Full Paper](https://www.sciencedirect.com/science/article/pii/S0164121214002532)
+
+**Abstract:** Software development suffers from a lack of predictability with respect to cost, time, and quality. Predictability is one of the major concerns addressed by modern manufacturing execution systems (MESs). A MES does not actually execute the manufacturing (e.g., controlling equipment and producing goods), but rather collects, analyzes, integrates, and presents the data generated in industrial production so that employees have better insights into processes and can react quickly, leading to predictable manufacturing processes. In this paper, we introduce the principles and functional areas of a MES. We then analyze the gaps between MES-vision-driven software development and current practices. These gaps include: (1) lack of a unified data collection infrastructure, (2) lack of integrated people data, (3) lack of common conceptual frameworks driving improvement loops from development data, and (4) lack of support for projection and simulation. Finally, we illustrate the feasibility of leveraging MES principles to manage software development, using a Modularity Debt Management Decision Support System prototype we developed. In this prototype we demonstrate that information integration in MES-vision-driven systems enables new types of analyses, not previously available, for software development decision support. We conclude with suggestions for moving current software development practices closer to the MES vision.
 
 **My Contribution**:
 
@@ -94,9 +98,11 @@ UxAS use case.
 
 ### 1.7 Mining Retention Rules from Student Transcripts: A Case Study of the Information Systems programme at a Federal University
 
-**Reference**: **SILVA, C. V. A.** ; SANTOS, M. S. ; Claro, D.B. ; Silva, Veronica ; SILVA, M. ; RIBEIRO, S. ; TELLES, A. R. ; LOPES, D. . Mining Retention Rules from Student Transcripts: A Case Study of the Information Systems programme at a Federal University. Anais do Simpósio Brasileiro de Informática na Educação, v. 1, p. 1, 2013.
+**Reference**: **SILVA, C. V. A.** ; SANTOS, M. S. ; Claro, D.B. ; Silva, Veronica ; SILVA, M. ; RIBEIRO, S. ; TELLES, A. R. ; LOPES, D. . Mining Retention Rules from Student Transcripts: A Case Study of the Information Systems programme at a Federal University. Anais do Simpósio Brasileiro de Informática na Educação, v. 1, p. 1, 2013. http://dx.doi.org/10.5753/cbie.sbie.2013.577.
 
-**Access:** [Full Paper](https://)
+**Access:** [Full Paper](http://www.br-ie.org/pub/index.php/sbie/article/view/2536)
+
+**Abstract:** Due to the increase in inflows, mainly because of REUNI procedures, and low completion rate also observed in several programmes on Brazilian universities, it is necessary to identify which factors may cause the students to remain in their programmes longer than expected or even leaving the university before their conclusion. In this work, we hypothesize that the combinations of classes that the students have to do in each semester is not appropriated and can cause student retention, leading to a huge loss to the university. Thus, we present a case study of analyzing retention rules in the Information Systems programme at the Federal University of Bahia. With the resulting rule set obtained from mined student transcripts, we discuss how changes can be made in a programme so as to decrease the student retention rates.
 
 **My Contribution**:
 
@@ -104,9 +110,11 @@ UxAS use case.
 
 ### 1.8 An exploratory study to investigate the impact of conceptualization in god class detection.
 
-**Reference**: SANTOS, JOSÉ A. M. ; DE MENDONÇA, MANOEL G. ; **SILVA, CARLOS V. A.** . *An exploratory study to investigate the impact of conceptualization in god class detection*. In: the 17th International Conference, 2013, Porto de Galinhas. Proceedings of the 17th International Conference on Evaluation and Assessment in Software Engineering - EASE '13. New York: ACM Press, 2013. p. 48.
+**Reference**: SANTOS, JOSÉ A. M. ; DE MENDONÇA, MANOEL G. ; **SILVA, CARLOS V. A.** . *An exploratory study to investigate the impact of conceptualization in god class detection*. In: the 17th International Conference, 2013, Porto de Galinhas. Proceedings of the 17th International Conference on Evaluation and Assessment in Software Engineering - EASE '13. New York: ACM Press, 2013. p. 48. DOI: 10.1145/2460999.2461007.
 
-**Access:** [Full Paper](https://)
+**Access:** [Full Paper](https://dl.acm.org/citation.cfm?doid=2460999.2461007)
+
+**Abstract:** Context: The concept of code smells is widespread in Software Engineering. However, in spite of the many discussions and claims about them, there are few empirical studies to support or contest these ideas. In particular, the study of the human perception of what is a code smell and how to deal with it has been mostly neglected. Objective: To build empirical support to understand the effect of god classes, one of the most known code smells. In particular, this paper focuses on how conceptualization affects identification of god classes, i.e., how different people perceive the god class concept. Method: A controlled experiment that extends and builds upon another empirical study about how humans detect god classes [19]. Our study: i) deepens and details some of the research questions of the previous study, ii) introduces a new research question and, iii) when possible, compares the results of both studies. Result: Our findings show that participants have different personal criteria and preferences in choosing drivers to identify god classes. The agreement between participants is not high, which is in accordance with previous studies. Conclusion: This study contributes to expand the empirical data about the human perception of code smells. It also presents a new way to evaluate effort and distraction in experiments through the use of automatic logging of participant actions.
 
 **My Contribution**:
 
@@ -116,7 +124,9 @@ UxAS use case.
 
 **Reference**: ALMEIDA, E.S ; MACHADO, I. C. ; **SILVA, C. V. A.** ; GOMES, G. S. S. . *Teaching Software Engineering Fundamentals in an Introductory Computer Programming Course*. In: IV Fórum de Educação em Engenharia de Software (FEES), 2011, São Paulo. XXV Simposio Brasileiro de Engenharia de Software (SBES), 2011.
 
-**Access:** [Full Paper](https://)
+**Access:** [Full Paper](http://fees.inf.puc-rio.br/FEESArtigos/papers_by_conference.lp?conference=FEES11)
+
+**Abstract:** Programming is an important part of software development and welleducated professionals is critical for the industry needs. However, in general, the computer programming courses are just focused on the language, constructions, structures, and so on. In this paper, we present a new approach to teach an introductory computer programming course based on software engineering fundamentals. The approach has been applied since 2009 in our university and the results are promising.
 
 **My Contribution**:
 
