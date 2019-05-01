@@ -60,6 +60,8 @@ Created a model of an attack surface between military drone communication by ins
 
 ## 5. Service
 
+### 5.1 Research Community Service
+
 * [Program Committee Member](https://www.icmla-conference.org/icmla19/pcm.html) for International Conference on Machine Learning and Applications (ICMLA) 2019.
 
 * [Program Committee Member](https://www.icmla-conference.org/icmla18/pcm.html) for International Conference on Machine Learning and Applications (ICMLA) 2018.
@@ -70,11 +72,13 @@ Created a model of an attack surface between military drone communication by ins
 
 * Intel Nervana AI [Student Ambassador](https://software.intel.com/en-us/blogs/2018/12/18/ai-student-ambassador-carlos-paradis-applying-ai-concepts-to-cybersecurity-and).
  
+### 5.2 General Community Service
+
 * Treasurer of HKN Delta Omega (2016-2017) - [IEEE Honor Society's Chapter in Hawai'i](http://hknhawaii.weebly.com/alumni.html)
 
 * Volunteer member of [Science Without Borders Network](http://www.cienciasemfronteiras.gov.br/web/csf/views/-/journal_content/56_INSTANCE_VF2v/214072/5107869).
 
-* Founder and Chair of Association for Computing Machinery (ACM) Student Chapter, [featured in XRDS Vol 18, No. 1](http://delivery.acm.org/10.1145/2010000/2000781/p7-giannikas.pdf?ip=66.162.254.210&id=2000781&acc=ACTIVE%20SERVICE&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2ED325BB20C707A9F3%2E4D4702B0C3E38B35&__acm__=1556660170_18646008c7d662545b70033c0c4543dd).
+* Founder and Chair of Association for Computing Machinery (ACM) Student Chapter, [featured in XRDS Vol 18, No. 1](https://xrds.acm.org/article.cfm?aid=2000781).
 
 * Volunteer member of [Open Knowledge Brazil](http://gastosabertos.org).
 
