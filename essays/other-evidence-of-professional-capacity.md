@@ -46,7 +46,7 @@ Designed a Github project incubator which served to assist faculty and I to host
 
 ### 3.1 SGT at NASA Ames Research Center
 
-Created a model of an attack surface between military drone communication by inserting a ‘liar’ script at the communication boundary using OpenUxAS, developed by the Air Force Research Laboratory [Poster](https://drive.google.com/file/d/1yM4KJfl88xqxkJX7t4OBWPvHG9e6y4go/view?usp=sharing). 
+Created a model of an attack surface between military drone communication by inserting a ‘liar’ script at the communication boundary using OpenUxAS, developed by the Air Force Research Laboratory. [Poster](https://drive.google.com/file/d/1yM4KJfl88xqxkJX7t4OBWPvHG9e6y4go/view?usp=sharing)
 
 ## 4. Professional Presentations
 
@@ -88,6 +88,11 @@ Created a model of an attack surface between military drone communication by ins
 
 I waive my FERPA rights for the recommendation letters. The letters will be submitted by my Chairperson, [Rick Kazman](http://shidler.hawaii.edu/itm/directory/rick-kazman), in a separate e-mail from my portfolio URL submission on the same day.
 
-## 7. More Details
+## 7. Fellowships and Funding Awards 
+
+ * ICS Achievement Scholarship (Fall 2017, 2018)
+ * [Science Without Borders](https://en.wikipedia.org/wiki/Ci%C3%AAncia_sem_Fronteiras) - Capes and LASPAU (Spring 2012, Fall 2012)
+
+## 8. More Details
 
 More details can be found on my [CV](https://carlosparadis.github.io/bio/).
