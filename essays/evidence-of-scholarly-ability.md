@@ -63,9 +63,9 @@ UxAS use case.
 
 ### 1.4 Conway: Law or not?
 
-**Reference:** Wolfgang Mauerer, Mitchell Joblin, Damian Andrew Tamburri, **Carlos Paradis**, Sven Apel, and Rick Kazman. *Conway: Law or not?* In 2018 40th International Conference On Software Engineering, Gothenburg, Sweden, May 2018. Poster.
+**Reference:** Wolfgang Mauerer, Mitchell Joblin, Damian Andrew Tamburri, **Carlos Paradis**, Sven Apel, and Rick Kazman. *Conway: Law or not?* In 2018 40th International Conference On Software Engineering, Gothenburg, Sweden, May 2018. 
 
-**Access:** [Full Paper](https://www.icse2018.org/event/icse-2018-posters-poster-conway-law-or-not-)
+**Access:** [Poster](https://www.icse2018.org/event/icse-2018-posters-poster-conway-law-or-not-)
 
 **My Contribution**:
 
@@ -138,7 +138,11 @@ UxAS use case.
 
 **Reference:** *Identifying Cybersecurity Software Vulnerabilities from a Defender and Attacker Standpoint: Literature Review* **Carlos Paradis**.
 
-**Access:** [Full Paper](https://)
+**Access:** 
+ * [Full Paper](https://)
+ * **Publications**:
+    * Paper from Section 1.2: [Full Paper](https://arc.aiaa.org/doi/abs/10.2514/6.2019-0770)
+    * Paper from Section 1.3: [Full Paper](https://ieeexplore.ieee.org/document/8614146)
 
 **Abstract:** The goal of this literature review is to discuss the state of the art in helping security and safety analysts preventing software vulnerabilities. The literature suggests two main approaches: The first assumes that the source of vulnerabilities are in the code of an application, and therefore the infrastructure that supports software development can be studied, and potentially augmented to prevent software faults, in particular security bugs. The second assumes that, beyond code, software vulnerabilities are concepts in a programmer’s mind, in particular attackers, that span multiple vulnerabilities independent of a particular software application and it’s infrastructure. Vulnerabilities can therefore be studied in online forums, and social media, and their concepts leveraged to prevent software vulnerabilities even before code is written. Following the two main threads of current and past literature, this literature review discusses what work has been done in these two areas, and proposes research opportunities for future work.
 
@@ -151,6 +155,24 @@ UxAS use case.
 **Access**: 
  * [Full Paper](https://drive.google.com/file/d/1oi3DHO8Yxht2IM5hRPXoeph1r5FjR05N/view?usp=sharing)
  * [Slides](https://docs.google.com/presentation/d/1mbiXtc1KFw2f-efUEkrwEuepceGJJ-iFXjgLf6bnCvU/edit?usp=sharing).
+ * **Publications**:
+    * Paper from Section 1.5: [Full Paper](https://ieeexplore.ieee.org/document/7424477).
+
+ **Abstract:**: In order to produce energy, the Hawaiian Islands rely heavily on oil and oil products to fuel their power plants, leading to high electricity costs that help make renewable energy economically
+competitive, such as solar energy. Solar energy production, however, introduces a new dimension of
+uncertainty to meet energy load with supply due to climate conditions: We are not guaranteed to
+have sufficient solar irradiance available the next day to generate the necessary amount of energy
+for households and businesses. Forecasting 1-day ahead solar forecasting would then be helpful to
+know how much energy from other sources are necessary to be produced, in order to compensate
+the lack of solar energy for the following day.
+
+To address the solar irradiance forecasting need, in this thesis we investigate probabilistic models
+for one-day ahead solar irradiance forecasting. Namely, we investigate how the use of past solar
+irradiance and other weather variables (e.g. relative humidity, pressure, temperature, etc.) using
+one or more sites can influence the accuracy of 1-day ahead solar forecasts. We also discuss how
+different parameters and limitations encountered throughout the usage of our probability models
+for solar forecasting influence the forecasts. To address the limitations, we present an entropy based
+probability model.
 
 ## 4. Technical Reports
 
