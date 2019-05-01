@@ -12,7 +12,7 @@ labels:
 
 ## Progress
 
-Over the past three years I have designed and maintained a Github project incubator, PERCEIVE, which served to assist faculty and I to host, mentor, track and collaborate now 17 independent studies, honors presentations, and capstones at both undergraduate and master's student level. In the spirit of an open source project,
+Over the past three years I have designed and maintained a Github project incubator, [PERCEIVE](https://github.com/sailuh/perceive), which served to assist faculty and I to host, mentor, track and collaborate now 17 independent studies, honors presentations, and capstones at both undergraduate and master's student level. In the spirit of an open source project,
 through issues, pull requests and code reviews we created Crawlers \[[1](https://github.com/sailuh/perceive/tree/master/Crawlers)\] to parse social media using various heuristics to parse irrelevant information and spam, 
 several Python notebooks \[[2](https://github.com/sailuh/perceive/blob/master/Notebooks/CVE_Details/cve_details_introduction.ipynb)\], \[[3](https://github.com/sailuh/perceive/blob/master/Notebooks/CWE/cwe_introduction.ipynb)\], \[[4](https://github.com/sailuh/perceive/blob/master/Notebooks/CAPEC/Introduction/capec_introduction.ipynb)\], and explore ideas and understand collected data to support the project vision
 to identify software vulnerabilities as concepts. 
