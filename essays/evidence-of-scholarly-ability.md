@@ -29,7 +29,7 @@ consistently goes beyond the professional architecture curriculum to deepen stud
 affinity for designing and operating energy efficient, comfortable buildings. The students demonstrate
 initiative, skill mastery, and affinity for environmental systems and building technology subjects during their studies and upon graduation in their career selections.
 
-**My Contribution**:
+**My Contribution**: I assisted with the paper outline, proposed the usage of Bloom's Taxonomy to strengthen the validity of the results, suggested some of the challenges and positive outcomes, and did part of the literature review.
 
 **Statistics**:
 
@@ -44,7 +44,7 @@ initiative, skill mastery, and affinity for environmental systems and building t
 oriented architectures. These architectures make it easy to reconfigure off-the-shelf components and capabilities for new missions and to plug-and-play new capabilities as they are developed. However, such components tend to be assured only in isolation. Validation and verification of the overall system, including the interactions of these components, is likely to rely on a contract-based guarantee approach for the components and runtime verification. Specifying contracts in order to insure overall system performance and safety is a difficult problem. In this paper, we discuss the current gaps towards achieving cybersecurity assurance given these architectures. We also briefly discuss an approach to learning these contracts in order to assure security behavior for the Air Force Research Lab (AFRL)
 UxAS use case.
 
-**My Contribution**:
+**My Contribution**: I created, under supervision of the P.I., the approach to learn the UxAS use case, as shown on this peer-reviewed presented [poster](https://drive.google.com/file/d/1yM4KJfl88xqxkJX7t4OBWPvHG9e6y4go/view?usp=sharing).
 
 **Statistics**:
 
@@ -56,7 +56,7 @@ UxAS use case.
 
 **Abstract:** Despite efforts in the security community to quickly index and disseminate vulnerabilities as they are discovered and addressed, there are concerns about how to scale up the knowledge management of vulnerabilities given its dramatic growth rate. To address these concerns, recent research shifted towards more proactive approaches, in particular leveraging text mining methods to improve vulnerability identification and dissemination to security investigators. While providing a starting point for understanding vulnerability trends, recent methods are still reliant on curated identifiers, such as ‘CVE-\*’, hence missing the majority of cybersecurity activity. We show that we can leverage overlapping textual themes in software vulnerabilities to identify related software vulnerability discussions without prior knowledge of identifiers. Our method obtained 86% accuracy in identifying related vulnerabilities with minimal pre-processing in a noisy community.
 
-**My Contribution**:
+**My Contribution**: I identified that a portion of data provided by CVE Mitre could be used as ground truth, and created a hypothesis leveraging the data to validate our ongoing pipeline. I also wrote all the code for topic modelling, paper visualization, literature review and did a substantial part of the writing over P.I. reviews. 
 
 **Statistics**:
    * Acceptance Rate: [14%](https://www.icmla-conference.org/icmla18/).
@@ -67,7 +67,7 @@ UxAS use case.
 
 **Access:** [Poster](https://www.icse2018.org/event/icse-2018-posters-poster-conway-law-or-not-)
 
-**My Contribution**:
+**My Contribution**: I wrote a portion of the data pipeline scripts required for the results presented in this work, and the tool of the primary author, which is open source and available [here](https://github.com/siemens/codeface/search?q=carlos+andrade&unscoped_q=carlos+andrade) with my name listed.
 
 **Statistics**:
 
@@ -79,7 +79,7 @@ UxAS use case.
 
 **Abstract**: Solar irradiance forecasting is an important problem in renewable energy management where any dips in solar energy generation must be made up for by reserves in order to ensure an uninterrupted energy supply. In this paper, we study several data mining methods for short term solar irradiance forecasting at a given location. In particular, we apply linear regression, probabilistic models, and naive Bayes classifier to forecast solar irradiance one day ahead, i.e., we forecast what tomorrow's solar irradiance will be like at sundown today. We evaluate the forecasting performance of our adaptations of the three models using land-based weather data from several weather stations on the island of Oahu in Hawai'i.
 
-**My Contribution**:
+**My Contribution**: I wrote the code for dataset collection, curation, and analysis, and did most of the writing, including literature review, over the P.I.s revisions. 
 
 **Statistics**:
 
@@ -92,7 +92,7 @@ UxAS use case.
 
 **Abstract:** Software development suffers from a lack of predictability with respect to cost, time, and quality. Predictability is one of the major concerns addressed by modern manufacturing execution systems (MESs). A MES does not actually execute the manufacturing (e.g., controlling equipment and producing goods), but rather collects, analyzes, integrates, and presents the data generated in industrial production so that employees have better insights into processes and can react quickly, leading to predictable manufacturing processes. In this paper, we introduce the principles and functional areas of a MES. We then analyze the gaps between MES-vision-driven software development and current practices. These gaps include: (1) lack of a unified data collection infrastructure, (2) lack of integrated people data, (3) lack of common conceptual frameworks driving improvement loops from development data, and (4) lack of support for projection and simulation. Finally, we illustrate the feasibility of leveraging MES principles to manage software development, using a Modularity Debt Management Decision Support System prototype we developed. In this prototype we demonstrate that information integration in MES-vision-driven systems enables new types of analyses, not previously available, for software development decision support. We conclude with suggestions for moving current software development practices closer to the MES vision.
 
-**My Contribution**:
+**My Contribution**: I assisted in collecting some of the data used to validate some of the empirical claims in the work. 
 
 **Statistics**:
 
@@ -104,7 +104,7 @@ UxAS use case.
 
 **Abstract:** Due to the increase in inflows, mainly because of REUNI procedures, and low completion rate also observed in several programmes on Brazilian universities, it is necessary to identify which factors may cause the students to remain in their programmes longer than expected or even leaving the university before their conclusion. In this work, we hypothesize that the combinations of classes that the students have to do in each semester is not appropriated and can cause student retention, leading to a huge loss to the university. Thus, we present a case study of analyzing retention rules in the Information Systems programme at the Federal University of Bahia. With the resulting rule set obtained from mined student transcripts, we discuss how changes can be made in a programme so as to decrease the student retention rates.
 
-**My Contribution**:
+**My Contribution**: I parsed the PDF transcripts into datasets, proposed and implemented the used methods, the presentation of results and the threats to validity to our conclusions. 
 
 **Statistics**:
 
@@ -116,7 +116,7 @@ UxAS use case.
 
 **Abstract:** Context: The concept of code smells is widespread in Software Engineering. However, in spite of the many discussions and claims about them, there are few empirical studies to support or contest these ideas. In particular, the study of the human perception of what is a code smell and how to deal with it has been mostly neglected. Objective: To build empirical support to understand the effect of god classes, one of the most known code smells. In particular, this paper focuses on how conceptualization affects identification of god classes, i.e., how different people perceive the god class concept. Method: A controlled experiment that extends and builds upon another empirical study about how humans detect god classes [19]. Our study: i) deepens and details some of the research questions of the previous study, ii) introduces a new research question and, iii) when possible, compares the results of both studies. Result: Our findings show that participants have different personal criteria and preferences in choosing drivers to identify god classes. The agreement between participants is not high, which is in accordance with previous studies. Conclusion: This study contributes to expand the empirical data about the human perception of code smells. It also presents a new way to evaluate effort and distraction in experiments through the use of automatic logging of participant actions.
 
-**My Contribution**:
+**My Contribution**: I wrote the code to perform the statistical analysis of the events generated when users clicked different interfaces, and which is described in the paper. 
 
 **Statistics**:
 
@@ -128,7 +128,7 @@ UxAS use case.
 
 **Abstract:** Programming is an important part of software development and welleducated professionals is critical for the industry needs. However, in general, the computer programming courses are just focused on the language, constructions, structures, and so on. In this paper, we present a new approach to teach an introductory computer programming course based on software engineering fundamentals. The approach has been applied since 2009 in our university and the results are promising.
 
-**My Contribution**:
+**My Contribution**: I helped controlling the quasi-experiment during it's execution over the semesters, helping assess participants concerns. I also helped in the organization of data collection and exploratory analysis and ideas of the presentation of results.
 
 **Statistics**:
 
@@ -184,4 +184,4 @@ probability model.
 
 **Abstract:** In this paper, we present a new approach to correlating file metrics to maintenance effort. We examine the correlations between variations in file metrics and variations in the maintenance effort spent on these files over multiple releases. Because effort data is seldom accurately collected, and is never collected for open source projects, we have employed three novel, broadened and more holistic measures of filelevel maintenance effort: the number of lines of code changed to resolve tasks (churn), the amount of discussion that tasks generated (discussions), and the number of atomic changes made to a file to resolve a task (actions). From the data extracted from multiple Apache projects, we found that a small subset of file metrics were significantly correlated to our effort measures, especially to code churn and actions. The best correlations vary from project to project, suggesting that maintenance effort measurements should be project-specific.
 
-**My Contribution**:
+**My Contribution**: I executed part of the pipeline made by the primary author, as well as creating the necessary regex strings to extend the pipeline to other projects.
