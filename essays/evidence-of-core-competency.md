@@ -10,7 +10,7 @@ labels:
 
 ## 1. Evidence of MS degree
 
-MS Degree Certificate: Filed with ICS Department
+* MS Degree Certificate: Filed with ICS Department
 
 ## 2. Results of Qualifying Exam
 

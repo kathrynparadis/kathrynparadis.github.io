@@ -76,9 +76,9 @@ Created a model of an attack surface between military drone communication by ins
 
 * Founder and Chair of Association for Computing Machinery (ACM) Student Chapter, [featured in XRDS Vol 18, No. 1](http://delivery.acm.org/10.1145/2010000/2000781/p7-giannikas.pdf?ip=66.162.254.210&id=2000781&acc=ACTIVE%20SERVICE&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2ED325BB20C707A9F3%2E4D4702B0C3E38B35&__acm__=1556660170_18646008c7d662545b70033c0c4543dd).
 
-Volunteer member of [Open Knowledge Brazil](http://gastosabertos.org).
+* Volunteer member of [Open Knowledge Brazil](http://gastosabertos.org).
 
-Volunteer member of [Code for Hawaii](https://github.com/CodeforHawaii/ethics).
+* Volunteer member of [Code for Hawaii](https://github.com/CodeforHawaii/ethics).
 
 ## 6. Letters of Reference
 
