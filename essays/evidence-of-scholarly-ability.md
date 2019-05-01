@@ -142,9 +142,17 @@ UxAS use case.
 
 **Abstract:** The goal of this literature review is to discuss the state of the art in helping security and safety analysts preventing software vulnerabilities. The literature suggests two main approaches: The first assumes that the source of vulnerabilities are in the code of an application, and therefore the infrastructure that supports software development can be studied, and potentially augmented to prevent software faults, in particular security bugs. The second assumes that, beyond code, software vulnerabilities are concepts in a programmer’s mind, in particular attackers, that span multiple vulnerabilities independent of a particular software application and it’s infrastructure. Vulnerabilities can therefore be studied in online forums, and social media, and their concepts leveraged to prevent software vulnerabilities even before code is written. Following the two main threads of current and past literature, this literature review discusses what work has been done in these two areas, and proposes research opportunities for future work.
 
-## 3. Technical Reports
+## 3. Master Thesis - Plan A
 
-### 3.1 A New Perspective on Predicting Maintenance Costs
+### 3.1 Probabilistic models for one-day ahead solar irradiance Forecasting in renewable energy applications on oahu
+
+**Reference:** Carlos Paradis. *Probabilistic models for one-day ahead solar irradiance Forecasting in renewable energy applications on oahu*. Master’s thesis, University of Hawaii at Manoa, School of Innovation, Design and Engineering, 2016.
+
+**Access**: [Full Paper](https://drive.google.com/file/d/1oi3DHO8Yxht2IM5hRPXoeph1r5FjR05N/view?usp=sharing)| [Slides](https://docs.google.com/presentation/d/1mbiXtc1KFw2f-efUEkrwEuepceGJJ-iFXjgLf6bnCvU/edit?usp=sharing).
+
+## 4. Technical Reports
+
+### 4.1 A New Perspective on Predicting Maintenance Costs
 
 **Reference:** Florian Uunk, Rick Kazman, Yuanfang Cai, Noah Black, **Carlos Andrade**, and Fetsje Bijma. *A New Perspective on Predicting Maintenance Costs*. Technical report, Drexel University, 2012.
 
