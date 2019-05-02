@@ -24,250 +24,103 @@
   },
   "interests": [
     {
-      "name": "",
+      "name": "data mining",
       "keywords": [
       ]
     },
     {
-      "name": "",
+      "name": "software vulnerabilities",
       "keywords": [
       ]
     }
   ],
   "skills": [
     {
-      "name": "",
+      "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "",
-        ""
+        "R",
+        "Python"
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaiʻi, Honolulu, HI",
+      "institution": "TEST",
       "area": "Computer Science",
       "studyType": "PhD",
-      "startDate": "Fall 2016",
+      "startDate": "",
       "endDate": "Present",
-      "gpa": "4.0",
-    "area": "Computer Science",
-      "studyType": "MS",
-      "startDate": "Fall 2014",
-      "endDate": "Spring 2016",
-      "gpa": "4.0" [
-      ]
-    },
-  {
-      "institution": "Stevens Institute of Technology, Hoboken, NJ",
-      "area": "Software Engineering",
-      "studyType": "MS",
-      "startDate": "Fall 2012",
-      "endDate": "Spring 2014",
-      "gpa": "3.92" [
-      ]
-    },
-  {
-      "institution": "Universidade Federal da Bahia, Brazil",
-      "area": "Computer Science",
-      "studyType": "BS",
-      "startDate": "Fall 2012",
-      "endDate": "November 2013",
-      "gpa": "9.5 / 10" [
+      "gpa": "",
+      "courses": [
       ]
     }
   ],
-  "selected research experience": [
+  "work": [
     {
-      "company": "University of Hawaiʻi at Manoa & University of Maryland",
-      "position": "Graduate Research",
+      "company": "UH Manoa Board of Publications",
+      "position": "Web Developer",
       "website": "",
-      "startDate": "May 2016",
+      "startDate": "2015-08-01",
       "endDate": "Present",
-      "summary": "Working with Dr. Kazman and Dr. Wang on using social network analysis and topic modeling and probability distribution similarity measures to identify, track and prioritize cybersecurity threats in a large, diversified corpora. My role in the group consists of overseeing master students work, investigating and applying text mining algorithms that realize the project vision.",
+      "summary": "THIS IS A TEST.....THIS IS A TEST.....THIS IS A TEST.....THIS IS A TEST.....THIS IS A TEST.....THIS IS A TEST.....THIS IS A TEST.....THIS IS A TEST.....THIS IS A TEST.....THIS IS A TEST.....",
       "highlights": [
+        "Maintain, update, and oversee official college newspaper website",
+        "Drive, design and build student-community projects for UH Manoa"
       ]
     },
     {
-      "company": "University of Hawaiʻi at Manoa",
-      "position": "Graduate Research",
-      "website": "",
-      "startDate": "March 2016",
-      "endDate": "Present",
-      "summary": "Under the supervision of sustainability specialist Eileen Peppard, and energy efficiency specialist Jim Maskrey in the Environmental Research and Design Lab (ERDL), I am evaluating options to create and display a dashboard which shows the energy consumption and environmental data of two net-zero energy buildings. The buildings will be sub-metered to track energy consumption and equipped with sensors to collect environmental conditions. To reach net-zero, I will also be integrating energy use predictions as input to the dashboard to help the building occupants determine if they will achieve net-zero energy by the end of the calendar year",
+      "company": "UH Information Technology Services",
+      "position": "Help Desk Consultant",
+      "website": "http://www.hawaii.edu/its/",
+      "startDate": "2015-01-01",
+      "endDate": "2016-03-15",
+      "summary": "",
       "highlights": [
-      ]
-    },
-  {
-      "company": "University of Hawaiʻi at Manoa & Siemens",
-      "position": "Graduate Research",
-      "website": "",
-      "startDate": "August 2015",
-      "endDate": "Present",
-      "summary": "Working with Dr. Kazman and Dr. Mauerer on associations between software companies organizational structure and their software products. Created scripts to calculate metrics from version control systems, issue trackers and static metrics to evaluate motifs on code collaboration social networks and discussion social networks.",
-      "highlights": [
-      ]
-    },
-  {
-      "company": "University of Hawaiʻi at Manoa & HECO",
-      "position": "Graduate Research",
-      "website": "",
-      "startDate": "January 2015",
-      "endDate": "May 2016",
-      "summary": "Worked with Dr. Lim, Dr. Stevens and HECO on Data mining/analytics of weather related data for renewable (solar) energy management in Hawaiʻi. I created a pipeline to harvest data from various sensors across Hawaii, scrape associated metadata through websites and several visualizations to identify missing or biased values through multiple years. Clustering methods to address time series granularity, probabilistic and linear models were also used to forecast solar irradiation on different sites. Results were published in ICMLA 2015, and finalresults as my Master Thesis.",
-      "highlights": [
-      ]
-    },
-  {
-      "company": "University of Hawaiʻi at Manoa",
-      "position": "Graduate Research",
-      "website": "",
-      "startDate": "January 2015",
-      "endDate": "August 2015",
-      "summary": "Worked with ScD. Fan on analysis of cross-sectional surveys conducted in Ethiopia by DHS to identify effects between sanitation and malnutrition. Assigned duties included systematic review (Database search, Snowballing and Inverse Snowballing), Survey Data Pre-Processing / Cleaning and Correlation Analysis of variables of interest.",
-      "highlights": [
-      ]
-    },
-  {
-      "company": "University of Hawaiʻi at Manoa & Drexel University",
-      "position": "Undergraduate Research",
-      "website": "",
-      "startDate": "January 2012",
-      "endDate": "November 2013",
-      "summary": "Worked with Dr. Kazman and Dr. Cai to identify patterns of effort in software using R and Python. Activities consisted of Data Gathering (website, .xml, .csv, .xlsx), storage (PostgreSQL), and Reports based on Exploratory Data Analysis, Clustering Algorithms and Classification Algorithms. Work was further published as a journal.",
-      "highlights": [
-      ]
-    },
-  {
-      "company": "Universidade Federal da Bahia - Formas",
-      "position": "Undergraduate Research",
-      "website": "",
-      "startDate": "May 2013",
-      "endDate": "November 2013",
-      "summary": "Worked with Dr. Claro and colleagues in identifying patterns that would lead to STEM Student Retention in U. Federal da Bahia. Activities consisted of Data Gathering (PDF format transcripts), storage (definition of schema and population of a PostgreSQL database), Exploratory Data Analysis, Association Rule Learning and Literature Review. Proposed enhancements on recommended coursework were further published.",
-      "highlights": [
-      ]
-    },
-  {
-      "company": "Universidade Federal da Bahia",
-      "position": "Undergraduate Research",
-      "website": "",
-      "startDate": "May 2012",
-      "endDate": "November 2012",
-      "summary": "Worked with Dr. Mendonça and Amancio Santos in analyzing Eclipse IDE usage by capturing point and click on logs. Activities consisted of data collection (.csv) by eclipse plugins, Exploratory Data Analysis and Process Mining. Results were further published.",
-      "highlights": [
+        "Troubleshoot software, hardware and networking issues over the phone",
+        "Answer phone and email responses to the ITS Help Desk"
       ]
     }
   ],
-  "Teaching Experience": [
+  "volunteer": [
     {
-      "company": "Professor",
-      "position": "Volunteer",
-      "website": "",
-      "startDate": "2013",
-      "endDate": "2014",
-      "summary": "At Universidade Federal da Bahia, Brazil, I taught Databases Lab, as well as Data Structures and Information Retrieval to Information Systems students. I used a combination of Latex, ”hand-made” Tikz forms, color, and other visual examples to illustrate abstract concepts in slides for freshman, together with lecture notes."
+      "organization": "Center for Renewable Energy and Island Sustainability",
+      "website": "http://manoa.hawaii.edu/reis",
+      "position": "Software Developer",
+      "startDate": "2016-01-01",
+      "endDate": "Present",
+      "summary": "Lead developer for weather sensing project",
+      "highlights": [
+        "Design firmware for distributed weather sensor network",
+        "Maintain custom data collection and storage infrastructure"
+      ]
     },
     {
-      "company": "Teacher Assistant",
-      "position": "Volunteer",
+      "organization": "",
       "website": "",
-      "startDate": "Past",
+      "position": "Professional organization involvement",
+      "startDate": "",
       "endDate": "",
-      "summary": "I was previously a teacher assistant in Shidler School of Business on a PHP introductory class under Dr. Kazman. While a student at Universidade Federal da Bahia, I’ve also worked as a undergraduate teaching assistant for Formal and Automata Languages, Programming Logic for Computer Science, and Paradigms of Programming Languages. In all three classes I gave lectures under supervision of the professor, assisted in creating material and grading, and organized guests coding dojos for the class. ",
+      "summary": "",
       "highlights": [
+        "Chair, ACM Manoa, 2016-Present",
+        "Member, IEEE Student Branch, 2014-Present",
+        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
       ]
     }
-  ],
-  "volunteer experience": [
-    {
-      "organization": "Fiscal Budget in Brazil",
-      "website": "",
-      "position": "Volunteer",
-      "startDate": "October 2015",
-      "endDate": "February 2016",
-      "summary": "I volunteered as a data analyst forthe Open Spending team of Open Knowledge Brazil Chapter, which was a finalist on Google Impact Challenge in Brazil. The project goal is ambitious, and seek to analyze the city and state of São Paulo, and also the federal’s fiscal year budget, serving as case study to implement the same method and tools to other cities. Mainly, the project seeks to read between the government’s budget lines and understand where tax money is being spent. My role in the team is to find, explore, pre-process, and analyze Brazil’s Fiscal Year Budget. Across the promised outcomes, my role more closely relates to help crafting stories, or by finding and exploring what data is available, help shape the presentation of it through the website and/or API. I am also exploring in parallel the open spending of Salvador, another city in Brazil and my hometown as both city and state’s budget data availability and organization vary considerable across the country. ",
-      "highlights": [
-      ]
-    },
-    {
-      "organization": "Association for Computing Machinery",
-      "website": "",
-      "position": "Chair of Student Chapter",
-      "startDate": "August 2010",
-      "endDate": "June 2011",
-      "summary": "I founded the first and only ACM student chapter of Brazil. Main chapter activities were initially focused on raising awareness (not well known in Brazil) and supporting local computer science events. The chapter was featured on XRDS, the student magazine of ACM on it’s first semester.",
-      "highlights": [
-      ]
-    },
-  {
-      "organization": "Science without Borders Network 'Rede CsF'",
-      "website": "",
-      "position": "Volunteer",
-      "startDate": "September 2015",
-      "endDate": "Present",
-      "summary": "Rede CsF is a non-profit organization based in Brazil and created by students who were awarded the Science Without Border scholarship from Brazil government. The non-profit is a return on investment to create projects in the country to improve Science, Technology, Innovation and Education. Within the network, I collaborate on the Open Data Awareness Project and the Intranet, the laterto coordinate over 40 contributors activities.",
-      "highlights": [
-      ]
-    }
-  ],
-  "Honors": [
-    {
-      "title": "ACM UPE",
-      "date": "",
-      "awarder": "",
-      "summary": ""
-    },
-    {
-      "title": "IEEE HKN (Pledge)",
-      "date": "",
-      "awarder": "",
-      "summary": ""
-    },
-  {
-      "title": "Brazilian Computer Society",
-      "date": "",
-      "awarder": "",
-      "summary": ""
-    },
-  {
-      "title": "Highest Honors Bloomsbury",
-      "date": "",
-      "awarder": "",
-      "summary": ""
-    },
-  {
-      "title": "Golden Key",
-      "date": "",
-      "awarder": "",
-      "summary": ""
-    },
   ],
   "awards": [
     {
-      "title": "NASA award 80NSSC18M0114",
-      "date": "Fall 2018-Present",
-      "awarder": "",
-      "summary": ""
+      "title": "B+ Scholarship",
+      "date": "2013-Present",
+      "awarder": "State of Hawaii",
+      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
     },
     {
-      "title": "ICS Achievement Scholarship",
-      "date": "Fall 2017-2018",
-      "awarder": "",
-      "summary": ""
-    },
-   {
-      "title": "Science Without Borders - Capes and LASPAU",
-      "date": "Spring 2012, Fall 2012",
-      "awarder": "",
-      "summary": ""
-    }
-  ],
-  "references": [
-    {
-      "name": "Available upon request",
-      "reference": ""
+      "title": "First place",
+      "date": "2015",
+      "awarder": "University of Hawaii Micromouse Competition",
+      "summary": "My team won first place in 2015.  See my portfolio site for more details."
     }
   ],
   "references": [
