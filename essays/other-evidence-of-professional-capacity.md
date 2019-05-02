@@ -36,7 +36,7 @@ Graded assignments, answered questions offline and online using Piazza, and lect
 
 ### 2.1 ERDL
 
-Designed a Github project which serves to assist the supervisor and I to organize, track and maintain the sensor infrastructure and associated thermal comfort projects. The project bridges electrical engineers, computer scientists, and School of Architecture students research work, in particular facilitating knowledge transfer given the fast turnover due to student graduation. More information can be found under the project's [README](https://erdl.github.io).
+Designed a Github project which serves to assist the supervisor and I to organize, track and maintain the sensor infrastructure and associated thermal comfort projects. The project bridges electrical engineers, computer scientists, and School of Architecture students research work, in particular facilitating knowledge transfer given the fast turnover due to student graduation. More information can be found over the project's [website](https://erdl.github.io).
 
 ### 2.2 PERCEIVE 
 
