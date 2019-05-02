@@ -49,7 +49,7 @@
       "institution": "University of Hawaiʻi, Honolulu, HI",
       "area": "Computer Science",
       "studyType": "PhD",
-      "startDate": "Fall 2016",
+      "startDate": "2016",
       "endDate": "Present",
       "gpa": "4.0 / 4.0",
     "courses": [
@@ -59,8 +59,8 @@
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science",
       "studyType": "MS",
-      "startDate": "Fall 2014",
-      "endDate": "Spring 2016",
+      "startDate": "2014",
+      "endDate": "2016",
       "gpa": "4.0 / 4.0",
       "courses": [
       ]
@@ -69,8 +69,8 @@
       "institution": "Stevens Institute of Technology, Hoboken, NJ",
       "area": "Software Engineering",
       "studyType": "MS",
-      "startDate": "Fall 2012",
-      "endDate": "Spring 2014",
+      "startDate": "2012",
+      "endDate": "2014",
       "gpa": "3.92 / 4.0",
       "courses": [
       ]
@@ -79,14 +79,14 @@
       "institution": "Universidade Federal da Bahia, Brazil",
       "area": "Computer Science",
       "studyType": "BS",
-      "startDate": "Fall 2012",
-      "endDate": "November 2013",
+      "startDate": "2012",
+      "endDate": "2013",
       "gpa": "9.5 / 10",
       "courses": [
       ]
     }
   ],
-  "selected research experience": [
+  "work": [
     {
       "company": "University of Hawaiʻi at Manoa & University of Maryland",
       "position": "Graduate Research",
@@ -203,9 +203,7 @@ eclipse plugins, Exploratory Data Analysis and Process Mining. Results were furt
 published.",
       "highlights": [
       ]
-    }
-  ],
-  "Teaching Experience": [
+    },
     {
       "company": "Professor",
       "position": "Volunteer",
@@ -231,7 +229,7 @@ supervision of the professor, assisted in creating material and grading, and org
       ]
     }
   ],
-  "volunteer experience": [
+  "volunteer": [
     {
       "organization": "Fiscal Budget in Brazil",
       "website": "",
@@ -277,56 +275,33 @@ the laterto coordinate over 40 contributors activities.",
       ]
     }
   ],
-  "Honors": [
-    {
-      "title": "ACM UPE",
-      "date": "",
-      "awarder": "",
-      "summary": ""
-    },
-    {
-      "title": "IEEE HKN (Pledge)",
-      "date": "",
-      "awarder": "",
-      "summary": ""
-    },
-  {
-      "title": "Brazilian Computer Society",
-      "date": "",
-      "awarder": "",
-      "summary": ""
-    },
-  {
-      "title": "Highest Honors Bloomsbury",
-      "date": "",
-      "awarder": "",
-      "summary": ""
-    },
-  {
-      "title": "Golden Key",
-      "date": "",
-      "awarder": "",
-      "summary": ""
-    },
-  ],
   "awards": [
     {
       "title": "NASA award 80NSSC18M0114",
-      "date": "Fall 2018-Present",
-      "awarder": "",
-      "summary": ""
+      "date": "Fall 2018-Present"
     },
     {
       "title": "ICS Achievement Scholarship",
-      "date": "Fall 2017-2018",
-      "awarder": "",
-      "summary": ""
+      "date": "Fall 2017-2018"
     },
    {
       "title": "Science Without Borders - Capes and LASPAU",
-      "date": "Spring 2012, Fall 2012",
-      "awarder": "",
-      "summary": ""
+      "date": "Spring 2012, Fall 2012"
+    },
+  {
+      "title": "ACM UPE"
+    },
+    {
+      "title": "IEEE HKN (Pledge)"
+    },
+  {
+      "title": "Brazilian Computer Society",
+    },
+  {
+      "title": "Highest Honors Bloomsbury"
+    },
+  {
+      "title": "Golden Key"
     }
   ],
   "references": [
