@@ -12,7 +12,7 @@
       "postalCode": "96822",
       "city": "Honolulu",
       "countryCode": "USA",
-      "region": "Hawaii"
+      "region": "Hawaiʻi"
     },
     "profiles": [
       {
@@ -56,7 +56,7 @@
       ]
     },
   {
-      "institution": "University of Hawaii, Honolulu, HI",
+      "institution": "University of Hawaiʻi, Honolulu, HI",
       "area": "Computer Science",
       "studyType": "MS",
       "startDate": "2014",
@@ -79,7 +79,7 @@
       "institution": "Universidade Federal da Bahia, Brazil",
       "area": "Computer Science",
       "studyType": "BS",
-      "startDate": "2012",
+      "startDate": "2009",
       "endDate": "2013",
       "gpa": "9.5 / 10",
       "courses": [
@@ -140,7 +140,7 @@ evaluate motifs on code collaboration social networks and discussion social netw
       "endDate": "2016",
       "summary": "Worked with Dr. Lim, Dr. Stevens and HECO on Data mining/analytics of weather
 related data for renewable (solar) energy management in Hawaiʻi. I created a pipeline
-to harvest data from various sensors across Hawaii, scrape associated metadata
+to harvest data from various sensors across Hawaiʻi, scrape associated metadata
 through websites and several visualizations to identify missing or biased values
 through multiple years. Clustering methods to address time series granularity,
 probabilistic and linear models were also used to forecast solar irradiation on
@@ -205,8 +205,8 @@ published.",
       ]
     },
     {
-      "company": "Professor",
-      "position": "Volunteer",
+      "company": "Universidade Federal da Bahia, Brazil",
+      "position": "Volunteer Professor",
       "website": "",
       "startDate": "2013",
       "endDate": "2014",
@@ -215,13 +215,23 @@ Information Systems students. I used a combination of Latex, ”hand-made” Tik
 abstract concepts in slides for freshman, together with lecture notes."
     },
     {
-      "company": "Teacher Assistant",
-      "position": "Volunteer",
+      "company": "University of Hawaiʻi at Manoa",
+      "position": "Volunteer Teacher Assistant",
       "website": "",
-      "startDate": "Past",
-      "endDate": "",
-      "summary": "I was previously a teacher assistant in Shidler School of Business on a PHP introductory class under Dr. Kazman. While a student
-at Universidade Federal da Bahia, I’ve also worked as a undergraduate teaching assistant for Formal and Automata Languages,
+      "startDate": "2016",
+      "endDate": "2017",
+      "summary": "I was previously a teacher assistant in Shidler School of Business on a PHP introductory class under Dr. Kazman. 
+",
+      "highlights": [
+      ]
+    },
+  {
+      "company": "Universidade Federal da Bahia, Brazil",
+      "position": "Volunteer Teacher Assistant",
+      "website": "",
+      "startDate": "2014"
+      "endDate": "2014",
+      "summary": "While a student at Universidade Federal da Bahia, I’ve worked as a undergraduate teaching assistant for Formal and Automata Languages,
 Programming Logic for Computer Science, and Paradigms of Programming Languages. In all three classes I gave lectures under
 supervision of the professor, assisted in creating material and grading, and organized guests coding dojos for the class.
 ",
@@ -230,19 +240,80 @@ supervision of the professor, assisted in creating material and grading, and org
     }
   ],
   "volunteer": [
-    {
-      "organization": "Fiscal Budget in Brazil",
+     {
+      "organization": "International Conference on Machine Learning and Applications (ICMLA)",
+      "website": "",
+      "position": "Program Committee Member",
+      "startDate": "2019",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+      ]
+    },
+  {
+      "organization": "International Conference on Machine Learning and Applications (ICMLA)",
+      "website": "",
+      "position": "Program Committee Member",
+      "startDate": "2018",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+      ]
+    },
+  {
+      "organization": "Journal of Aerospace Information Systems (JAIS)",
+      "website": "",
+      "position": "External Reviewer",
+      "startDate": "2018",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+      ]
+    },
+  {
+      "organization": "EDBT/ICDT 2016 Joint Conference",
+      "website": "",
+      "position": "External Reviewer",
+      "startDate": "2016",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+      ]
+    },
+  {
+      "organization": "SGT at NASA Ames Research Center",
+      "website": "",
+      "position": "Intern",
+      "startDate": "2018",
+      "endDate": "",
+      "summary": "Created a model of an attack surface between military drone communication by inserting a ‘liar’ script at the communication boundary using OpenUxAS, developed by the Air Force Research Laboratory.",
+      "highlights": [
+      ]
+    },
+   {
+      "organization": "Intel Nervana",
+      "website": "",
+      "position": "Intel Nervana AI Academy Student Ambassador",
+      "startDate": "2017",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+      ]
+    },
+  {
+      "organization": "Open Knowledge Brazil",
       "website": "",
       "position": "Volunteer",
       "startDate": "2015",
       "endDate": "2016",
-      "summary": "I volunteered as a data analyst forthe Open Spending team of Open Knowledge Brazil Chapter, which was a finalist on Google
+      "summary": "I volunteered as a data analyst for the Open Spending team of Open Knowledge Brazil Chapter, which was a finalist on Google
 Impact Challenge in Brazil.
 The project goal is ambitious, and seek to analyze the city and state of São Paulo, and also the federal’s fiscal year budget, serving
 as case study to implement the same method and tools to other cities. Mainly, the project seeks to read between the
 government’s budget lines and understand where tax money is being spent. My role in the team is to find, explore, pre-process,
 and analyze Brazil’s Fiscal Year Budget. Across the promised outcomes, my role more closely relates to help crafting stories, or by
 finding and exploring what data is available, help shape the presentation of it through the website and/or API. I am also exploring
+in parallel the open spending of Salvador, another city in Brazil and my hometown as both city and state’s budget data availability
 in parallel the open spending of Salvador, another city in Brazil and my hometown as both city and state’s budget data availability
 and organization vary considerable across the country.
 ",
@@ -271,6 +342,16 @@ magazine of ACM on it’s first semester.",
 scholarship from Brazil government. The non-profit is a return on investment to create projects in the country to improve Science,
 Technology, Innovation and Education. Within the network, I collaborate on the Open Data Awareness Project and the Intranet,
 the laterto coordinate over 40 contributors activities.",
+      "highlights": [
+      ]
+    },
+  {
+      "organization": "Code for Hawaiʻi",
+      "website": "",
+      "position": "Volunteer",
+      "startDate": "2017",
+      "endDate": "",
+      "summary": "I facilitate open-budget access for state of Hawaiʻi citizens, allowing them to make more informed decisions in choosing their state representatives by providing additional accessibility to candidates financial ties: Data cleaning and text linkage of various records concerning candidates campaign contribution distributed on different official pages of the state of Hawaiʻi are put together for navigation on a single website.",
       "highlights": [
       ]
     }
