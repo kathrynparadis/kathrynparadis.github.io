@@ -57,7 +57,7 @@ UxAS use case.
 
 **Abstract:** Despite efforts in the security community to quickly index and disseminate vulnerabilities as they are discovered and addressed, there are concerns about how to scale up the knowledge management of vulnerabilities given its dramatic growth rate. To address these concerns, recent research shifted towards more proactive approaches, in particular leveraging text mining methods to improve vulnerability identification and dissemination to security investigators. While providing a starting point for understanding vulnerability trends, recent methods are still reliant on curated identifiers, such as ‘CVE-\*’, hence missing the majority of cybersecurity activity. We show that we can leverage overlapping textual themes in software vulnerabilities to identify related software vulnerability discussions without prior knowledge of identifiers. Our method obtained 86% accuracy in identifying related vulnerabilities with minimal pre-processing in a noisy community.
 
-**My Contribution**: I identified that a portion of data provided by CVE Mitre could be used as ground truth, and created a hypothesis leveraging the data to validate our ongoing pipeline. I also wrote all the code for topic modelling, paper visualization, literature review and did a substantial part of the writing over P.I. reviews. 
+**My Contribution**: I identified that a portion of data provided by CVE could be used as ground truth, and created a hypothesis leveraging the data to validate our ongoing pipeline. I also wrote all the code for topic modelling, paper visualization, literature review and writing.
 
 **Statistics**:
    * Acceptance Rate: [14%](https://www.icmla-conference.org/icmla18/).
@@ -80,7 +80,7 @@ UxAS use case.
 
 **Abstract**: Solar irradiance forecasting is an important problem in renewable energy management where any dips in solar energy generation must be made up for by reserves in order to ensure an uninterrupted energy supply. In this paper, we study several data mining methods for short term solar irradiance forecasting at a given location. In particular, we apply linear regression, probabilistic models, and naive Bayes classifier to forecast solar irradiance one day ahead, i.e., we forecast what tomorrow's solar irradiance will be like at sundown today. We evaluate the forecasting performance of our adaptations of the three models using land-based weather data from several weather stations on the island of Oahu in Hawai'i.
 
-**My Contribution**: I wrote the code for dataset collection, curation, and analysis, and did most of the writing, including literature review, over the P.I.s revisions. 
+**My Contribution**: I wrote the code for dataset collection, curation, and analysis, and did most of the writing, including literature review.
 
 **Statistics**:
 
@@ -93,7 +93,7 @@ UxAS use case.
 
 **Abstract:** Software development suffers from a lack of predictability with respect to cost, time, and quality. Predictability is one of the major concerns addressed by modern manufacturing execution systems (MESs). A MES does not actually execute the manufacturing (e.g., controlling equipment and producing goods), but rather collects, analyzes, integrates, and presents the data generated in industrial production so that employees have better insights into processes and can react quickly, leading to predictable manufacturing processes. In this paper, we introduce the principles and functional areas of a MES. We then analyze the gaps between MES-vision-driven software development and current practices. These gaps include: (1) lack of a unified data collection infrastructure, (2) lack of integrated people data, (3) lack of common conceptual frameworks driving improvement loops from development data, and (4) lack of support for projection and simulation. Finally, we illustrate the feasibility of leveraging MES principles to manage software development, using a Modularity Debt Management Decision Support System prototype we developed. In this prototype we demonstrate that information integration in MES-vision-driven systems enables new types of analyses, not previously available, for software development decision support. We conclude with suggestions for moving current software development practices closer to the MES vision.
 
-**My Contribution**: I assisted in collecting some of the data used to validate some of the empirical claims in the work. 
+**My Contribution**: I assisted in collecting the data used to validate some of the empirical claims in the work. 
 
 **Statistics**:
 
@@ -117,7 +117,7 @@ UxAS use case.
 
 **Abstract:** Context: The concept of code smells is widespread in Software Engineering. However, in spite of the many discussions and claims about them, there are few empirical studies to support or contest these ideas. In particular, the study of the human perception of what is a code smell and how to deal with it has been mostly neglected. Objective: To build empirical support to understand the effect of god classes, one of the most known code smells. In particular, this paper focuses on how conceptualization affects identification of god classes, i.e., how different people perceive the god class concept. Method: A controlled experiment that extends and builds upon another empirical study about how humans detect god classes [19]. Our study: i) deepens and details some of the research questions of the previous study, ii) introduces a new research question and, iii) when possible, compares the results of both studies. Result: Our findings show that participants have different personal criteria and preferences in choosing drivers to identify god classes. The agreement between participants is not high, which is in accordance with previous studies. Conclusion: This study contributes to expand the empirical data about the human perception of code smells. It also presents a new way to evaluate effort and distraction in experiments through the use of automatic logging of participant actions.
 
-**My Contribution**: I wrote the code to perform the statistical analysis of the events generated when users clicked different interfaces, and which is described in the paper. 
+**My Contribution**: I wrote the code to perform the statistical analysis of the events generated when users clicked different interfaces, which is described in the paper. 
 
 **Statistics**:
 
@@ -129,7 +129,7 @@ UxAS use case.
 
 **Abstract:** Programming is an important part of software development and welleducated professionals is critical for the industry needs. However, in general, the computer programming courses are just focused on the language, constructions, structures, and so on. In this paper, we present a new approach to teach an introductory computer programming course based on software engineering fundamentals. The approach has been applied since 2009 in our university and the results are promising.
 
-**My Contribution**: I helped controlling the quasi-experiment during it's execution over the semesters, helping assess participants concerns. I also helped in the organization of data collection and exploratory analysis and ideas of the presentation of results.
+**My Contribution**: I helped controlling the quasi-experiment during its execution over the semesters, helping assess participants concerns. I also helped in the organization of data collection and exploratory analysis and ideas of the presentation of results.
 
 **Statistics**:
 
@@ -159,7 +159,7 @@ UxAS use case.
  * **Publications**:
     * Paper from Section 1.5: [Full Paper](https://ieeexplore.ieee.org/document/7424477).
 
- **Abstract:**: In order to produce energy, the Hawaiian Islands rely heavily on oil and oil products to fuel their power plants, leading to high electricity costs that help make renewable energy economically
+ **Abstract:** In order to produce energy, the Hawaiian Islands rely heavily on oil and oil products to fuel their power plants, leading to high electricity costs that help make renewable energy economically
 competitive, such as solar energy. Solar energy production, however, introduces a new dimension of
 uncertainty to meet energy load with supply due to climate conditions: We are not guaranteed to
 have sufficient solar irradiance available the next day to generate the necessary amount of energy
