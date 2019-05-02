@@ -47,41 +47,41 @@
   "education": [
     {
       "institution": "University of Hawaiʻi, Honolulu, HI",
-      "area": "Computer Science",
+      "area": "Computer Science - gpa: 4.0",
       "studyType": "PhD",
       "startDate": "2016",
       "endDate": "Present",
-      "gpa": "4.0 / 4.0",
+      "gpa": "4.0",
     "courses": [
       ]
     },
   {
       "institution": "University of Hawaiʻi, Honolulu, HI",
-      "area": "Computer Science",
+      "area": "Computer Science - gpa: 4.0",
       "studyType": "MS",
       "startDate": "2014",
       "endDate": "2016",
-      "gpa": "4.0 / 4.0",
+      "gpa": "4.0",
       "courses": [
       ]
     },
   {
       "institution": "Stevens Institute of Technology, Hoboken, NJ",
-      "area": "Software Engineering",
+      "area": "Software Engineering - gpa: 3.92",
       "studyType": "MS",
       "startDate": "2012",
       "endDate": "2014",
-      "gpa": "3.92 / 4.0",
+      "gpa": "3.92",
       "courses": [
       ]
     },
   {
       "institution": "Universidade Federal da Bahia, Brazil",
-      "area": "Computer Science",
+      "area": "Computer Science - gpa: 9.5 (0-10)",
       "studyType": "BS",
       "startDate": "2009",
       "endDate": "2013",
-      "gpa": "9.5 / 10",
+      "gpa": "9.5 (0-10)",
       "courses": [
       ]
     }
