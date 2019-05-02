@@ -24,23 +24,23 @@
   },
   "interests": [
     {
-      "name": "",
+      "name": "data mining",
       "keywords": [
       ]
     },
     {
-      "name": "",
+      "name": "software vulnerabilities",
       "keywords": [
       ]
     }
   ],
   "skills": [
     {
-      "name": "",
+      "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "",
-        ""
+        "R",
+        "Python"
       ]
     }
   ],
@@ -220,8 +220,7 @@ abstract concepts in slides for freshman, together with lecture notes."
       "website": "",
       "startDate": "2016",
       "endDate": "2017",
-      "summary": "I was previously a teacher assistant in Shidler School of Business on a PHP introductory class under Dr. Kazman. 
-",
+      "summary": "I was previously a teacher assistant in Shidler School of Business on a PHP introductory class under Dr. Kazman.",
       "highlights": [
       ]
     },
