@@ -6,7 +6,8 @@ labels:
   - PhD Portfolio
 ---
 
-*This page presents evidence of my scholarly ability in computer science as required for the [ICS Ph.D. Portfolio](http://www.ics.hawaii.edu/academics/graduate-degree-programs/ph-d-in-ics/#phd-portfolio). This includes evidence of ability to identify, critically analyze, and research a problem, as well as written communication skills.*
+*This page presents evidence of my scholarly ability in computer science as required for the [ICS Ph.D. Portfolio](http://www.ics.hawaii.edu/academics/graduate-degree-programs/ph-d-in-ics/#phd-portfolio). This includes evidence of ability to identify, critically analyze, and research a problem, as well as written communication skills.*\[\*\*\]
+
 
 ## 1. Publications
 
@@ -185,3 +186,6 @@ probability model.
 **Abstract:** In this paper, we present a new approach to correlating file metrics to maintenance effort. We examine the correlations between variations in file metrics and variations in the maintenance effort spent on these files over multiple releases. Because effort data is seldom accurately collected, and is never collected for open source projects, we have employed three novel, broadened and more holistic measures of filelevel maintenance effort: the number of lines of code changed to resolve tasks (churn), the amount of discussion that tasks generated (discussions), and the number of atomic changes made to a file to resolve a task (actions). From the data extracted from multiple Apache projects, we found that a small subset of file metrics were significantly correlated to our effort measures, especially to code churn and actions. The best correlations vary from project to project, suggesting that maintenance effort measurements should be project-specific.
 
 **My Contribution**: I executed part of the pipeline made by the primary author, as well as creating the necessary regex strings to extend the pipeline to other projects.
+
+
+\[\*\*\]In each reference, my name in the list of authors is noted in **bold**. Please note my name my last name is different in some papers for dating before marriage. 
