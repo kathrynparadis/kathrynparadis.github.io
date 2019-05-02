@@ -188,4 +188,4 @@ probability model.
 **My Contribution**: I executed part of the pipeline made by the primary author, as well as creating the necessary regex strings to extend the pipeline to other projects.
 
 
-\[\*\*\]In each reference, my name in the list of authors is noted in **bold**. Please note my name my last name is different in some papers for dating before marriage. 
+\[\*\*\]In each reference, my name in the list of authors is noted in **bold**. Please note my last name is different in some papers for dating before marriage. 
