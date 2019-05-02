@@ -91,7 +91,7 @@
       "company": "University of Hawaiʻi at Manoa & University of Maryland",
       "position": "Graduate Research",
       "website": "",
-      "startDate": "May 2016",
+      "startDate": "2016",
       "endDate": "Present",
       "summary": "Working with Dr. Kazman and Dr. Wang on using social network analysis and topic
 modeling and probability distribution similarity measures to identify, track and
@@ -105,7 +105,7 @@ algorithms that realize the project vision.",
       "company": "University of Hawaiʻi at Manoa",
       "position": "Graduate Research",
       "website": "",
-      "startDate": "March 2016",
+      "startDate": "2016",
       "endDate": "Present",
       "summary": "Under the supervision of sustainability specialist Eileen Peppard, and energy
 efficiency specialist Jim Maskrey in the Environmental Research and Design Lab
@@ -123,7 +123,7 @@ year",
       "company": "University of Hawaiʻi at Manoa & Siemens",
       "position": "Graduate Research",
       "website": "",
-      "startDate": "August 2015",
+      "startDate": "2015",
       "endDate": "Present",
       "summary": "Working with Dr. Kazman and Dr. Mauerer on associations between software
 companies organizational structure and their software products. Created scripts to
@@ -136,8 +136,8 @@ evaluate motifs on code collaboration social networks and discussion social netw
       "company": "University of Hawaiʻi at Manoa & HECO",
       "position": "Graduate Research",
       "website": "",
-      "startDate": "January 2015",
-      "endDate": "May 2016",
+      "startDate": "2015",
+      "endDate": "2016",
       "summary": "Worked with Dr. Lim, Dr. Stevens and HECO on Data mining/analytics of weather
 related data for renewable (solar) energy management in Hawaiʻi. I created a pipeline
 to harvest data from various sensors across Hawaii, scrape associated metadata
@@ -153,8 +153,8 @@ Master Thesis.",
       "company": "University of Hawaiʻi at Manoa",
       "position": "Graduate Research",
       "website": "",
-      "startDate": "January 2015",
-      "endDate": "August 2015",
+      "startDate": "2015",
+      "endDate": "2015",
       "summary": "Worked with ScD. Fan on analysis of cross-sectional surveys conducted in Ethiopia by
 DHS to identify effects between sanitation and malnutrition. Assigned duties
 included systematic review (Database search, Snowballing and Inverse Snowballing),
@@ -167,8 +167,8 @@ interest.",
       "company": "University of Hawaiʻi at Manoa & Drexel University",
       "position": "Undergraduate Research",
       "website": "",
-      "startDate": "January 2012",
-      "endDate": "November 2013",
+      "startDate": "2012",
+      "endDate": "2013",
       "summary": "Worked with Dr. Kazman and Dr. Cai to identify patterns of effort in software using R
 and Python. Activities consisted of Data Gathering (website, .xml, .csv, .xlsx), storage
 (PostgreSQL), and Reports based on Exploratory Data Analysis, Clustering
@@ -180,8 +180,8 @@ Algorithms and Classification Algorithms. Work was further published as a journa
       "company": "Universidade Federal da Bahia - Formas",
       "position": "Undergraduate Research",
       "website": "",
-      "startDate": "May 2013",
-      "endDate": "November 2013",
+      "startDate": "2013",
+      "endDate": "2013",
       "summary": "Worked with Dr. Claro and colleagues in identifying patterns that would lead to
 STEM Student Retention in U. Federal da Bahia. Activities consisted of Data
 Gathering (PDF format transcripts), storage (definition of schema and population of a
@@ -195,8 +195,8 @@ further published.",
       "company": "Universidade Federal da Bahia",
       "position": "Undergraduate Research",
       "website": "",
-      "startDate": "May 2012",
-      "endDate": "November 2012",
+      "startDate": "2012",
+      "endDate": "2012",
       "summary": "Worked with Dr. Mendonça and Amancio Santos in analyzing Eclipse IDE usage by
 capturing point and click on logs. Activities consisted of data collection (.csv) by
 eclipse plugins, Exploratory Data Analysis and Process Mining. Results were further
@@ -234,8 +234,8 @@ supervision of the professor, assisted in creating material and grading, and org
       "organization": "Fiscal Budget in Brazil",
       "website": "",
       "position": "Volunteer",
-      "startDate": "October 2015",
-      "endDate": "February 2016",
+      "startDate": "2015",
+      "endDate": "2016",
       "summary": "I volunteered as a data analyst forthe Open Spending team of Open Knowledge Brazil Chapter, which was a finalist on Google
 Impact Challenge in Brazil.
 The project goal is ambitious, and seek to analyze the city and state of São Paulo, and also the federal’s fiscal year budget, serving
@@ -253,8 +253,8 @@ and organization vary considerable across the country.
       "organization": "Association for Computing Machinery",
       "website": "",
       "position": "Chair of Student Chapter",
-      "startDate": "August 2010",
-      "endDate": "June 2011",
+      "startDate": "2010",
+      "endDate": "2011",
       "summary": "I founded the first and only ACM student chapter of Brazil. Main chapter activities were initially focused on raising awareness
 (not well known in Brazil) and supporting local computer science events. The chapter was featured on XRDS, the student
 magazine of ACM on it’s first semester.",
@@ -265,7 +265,7 @@ magazine of ACM on it’s first semester.",
       "organization": "Science without Borders Network 'Rede CsF'",
       "website": "",
       "position": "Volunteer",
-      "startDate": "September 2015",
+      "startDate": "2015",
       "endDate": "Present",
       "summary": "Rede CsF is a non-profit organization based in Brazil and created by students who were awarded the Science Without Border
 scholarship from Brazil government. The non-profit is a return on investment to create projects in the country to improve Science,
@@ -278,30 +278,38 @@ the laterto coordinate over 40 contributors activities.",
   "awards": [
     {
       "title": "NASA award 80NSSC18M0114",
-      "date": "Fall 2018-Present"
+      "date": "Fall 2018-Present",
+    "awarder": "NASA"
     },
     {
       "title": "ICS Achievement Scholarship",
-      "date": "Fall 2017-2018"
+      "date": "Fall 2017-2018",
+    "awarder": "University of Hawaiʻi at Manoa"
     },
    {
       "title": "Science Without Borders - Capes and LASPAU",
-      "date": "Spring 2012, Fall 2012"
+      "date": "Spring 2012, Fall 2012",
+    "awarder": "Ciencia Sem Fronteiras"
     },
   {
-      "title": "ACM UPE"
+      "title": "ACM UPE",
+    "date": "April 2012",
+    "awarder": "ACM Honor Society UPE"
     },
     {
-      "title": "IEEE HKN (Pledge)"
+      "title": "IEEE HKN",
+    "date": "2016-2017",
+    "awarder": "IEEE Honor Society HKN Delta Omega"
     },
   {
-      "title": "Brazilian Computer Society",
+      "title": "Featured Student Brazilian Award",
+    "date": "November 2013",
+    "awarder": "Brazilian Computer Society"
     },
   {
-      "title": "Highest Honors Bloomsbury"
-    },
-  {
-      "title": "Golden Key"
+      "title": "Golden Key Honors Member",
+    "date": "February 2015",
+    "awarder": "Golden Key International Honour Society"
     }
   ],
   "references": [
