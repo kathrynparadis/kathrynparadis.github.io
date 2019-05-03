@@ -140,7 +140,7 @@ UxAS use case.
 **Reference:** *Identifying Cybersecurity Software Vulnerabilities from a Defender and Attacker Standpoint: Literature Review* **Carlos Paradis**.
 
 **Access:** 
- * [Full Paper](https://)
+ * [Full Paper](https://drive.google.com/file/d/1aNFfS8RMfF6ELuZvSbCg0PS4HsgxLXm3/view?usp=sharing)
  * **Publications**:
     * Paper from Section 1.2: [Full Paper](https://arc.aiaa.org/doi/abs/10.2514/6.2019-0770)
     * Paper from Section 1.3: [Full Paper](https://ieeexplore.ieee.org/document/8614146)
