@@ -47,7 +47,7 @@
   "education": [
     {
       "institution": "University of Hawaiʻi, Honolulu, HI",
-      "area": "Computer Science - gpa: 4.0",
+      "area": "Computer Science - GPA: 4.0",
       "studyType": "PhD",
       "startDate": "2016",
       "endDate": "Present",
@@ -57,7 +57,7 @@
     },
   {
       "institution": "University of Hawaiʻi, Honolulu, HI",
-      "area": "Computer Science - gpa: 4.0",
+      "area": "Computer Science - GPA: 4.0",
       "studyType": "MS",
       "startDate": "2014",
       "endDate": "2016",
@@ -67,7 +67,7 @@
     },
   {
       "institution": "Stevens Institute of Technology, Hoboken, NJ",
-      "area": "Software Engineering - gpa: 3.92",
+      "area": "Software Engineering - GPA: 3.92",
       "studyType": "MS",
       "startDate": "2012",
       "endDate": "2014",
@@ -77,7 +77,7 @@
     },
   {
       "institution": "Universidade Federal da Bahia, Brazil",
-      "area": "Computer Science - gpa: 9.5 (0-10)",
+      "area": "Computer Science - GPA: 9.5 (0-10)",
       "studyType": "BS",
       "startDate": "2009",
       "endDate": "2013",
@@ -96,7 +96,7 @@
       "summary": "Working with Dr. Kazman and Dr. Wang on using social network analysis and topic
 modeling and probability distribution similarity measures to identify, track and
 prioritize cybersecurity threats in a large, diversified corpora. My role in the group
-consists of overseeing master students work, investigating and applying text mining
+consists of overseeing master students' work, and investigating and applying text mining
 algorithms that realize the project vision.",
       "highlights": [
       ]
@@ -115,7 +115,7 @@ buildings will be sub-metered to track energy consumption and equipped with
 sensors to collect environmental conditions. To reach net-zero, I will also be
 integrating energy use predictions as input to the dashboard to help the building
 occupants determine if they will achieve net-zero energy by the end of the calendar
-year",
+year.",
       "highlights": [
       ]
     },
@@ -124,9 +124,9 @@ year",
       "position": "Graduate Research",
       "website": "",
       "startDate": "2015",
-      "endDate": "Present",
-      "summary": "Working with Dr. Kazman and Dr. Mauerer on associations between software
-companies organizational structure and their software products. Created scripts to
+      "endDate": "2018",
+      "summary": "Worked with Dr. Kazman and Dr. Mauerer on associations between software
+companies' organizational structure and their software products. Created scripts to
 calculate metrics from version control systems, issue trackers and static metrics to
 evaluate motifs on code collaboration social networks and discussion social networks.",
       "highlights": [
@@ -144,7 +144,7 @@ to harvest data from various sensors across Hawaiʻi, scrape associated metadata
 through websites and several visualizations to identify missing or biased values
 through multiple years. Clustering methods to address time series granularity,
 probabilistic and linear models were also used to forecast solar irradiation on
-different sites. Results were published in ICMLA 2015, and finalresults as my
+different sites. Results were published in ICMLA 2015 and my
 Master Thesis.",
       "highlights": [
       ]
@@ -157,8 +157,8 @@ Master Thesis.",
       "endDate": "2015",
       "summary": "Worked with ScD. Fan on analysis of cross-sectional surveys conducted in Ethiopia by
 DHS to identify effects between sanitation and malnutrition. Assigned duties
-included systematic review (Database search, Snowballing and Inverse Snowballing),
-Survey Data Pre-Processing / Cleaning and Correlation Analysis of variables of
+included systematic review (database search, snowballing and inverse snowballing),
+survey data pre-processing / cleaning and correlation analysis of variables of
 interest.",
       "highlights": [
       ]
@@ -170,9 +170,9 @@ interest.",
       "startDate": "2012",
       "endDate": "2013",
       "summary": "Worked with Dr. Kazman and Dr. Cai to identify patterns of effort in software using R
-and Python. Activities consisted of Data Gathering (website, .xml, .csv, .xlsx), storage
-(PostgreSQL), and Reports based on Exploratory Data Analysis, Clustering
-Algorithms and Classification Algorithms. Work was further published as a journal.",
+and Python. Activities consisted of data gathering (website, .xml, .csv, .xlsx), storage
+(PostgreSQL), and reports based on exploratory data analysis, clustering
+algorithms and classification algorithms. Work was further published as a journal.",
       "highlights": [
       ]
     },
@@ -183,10 +183,10 @@ Algorithms and Classification Algorithms. Work was further published as a journa
       "startDate": "2013",
       "endDate": "2013",
       "summary": "Worked with Dr. Claro and colleagues in identifying patterns that would lead to
-STEM Student Retention in U. Federal da Bahia. Activities consisted of Data
-Gathering (PDF format transcripts), storage (definition of schema and population of a
-PostgreSQL database), Exploratory Data Analysis, Association Rule Learning and
-Literature Review. Proposed enhancements on recommended coursework were
+STEM Student Retention in U. Federal da Bahia. Activities consisted of data
+gathering (PDF format transcripts), storage (definition of schema and population of a
+PostgreSQL database), exploratory data analysis, association rule learning and
+literature review. Proposed enhancements on recommended coursework were
 further published.",
       "highlights": [
       ]
@@ -199,34 +199,24 @@ further published.",
       "endDate": "2012",
       "summary": "Worked with Dr. Mendonça and Amancio Santos in analyzing Eclipse IDE usage by
 capturing point and click on logs. Activities consisted of data collection (.csv) by
-eclipse plugins, Exploratory Data Analysis and Process Mining. Results were further
+Eclipse plugins, exploratory data analysis and process mining. Results were further
 published.",
       "highlights": [
       ]
     },
     {
       "company": "Universidade Federal da Bahia, Brazil",
-      "position": "Volunteer Professor",
+      "position": "Lecturer",
       "website": "",
       "startDate": "2013",
       "endDate": "2014",
       "summary": "At Universidade Federal da Bahia, Brazil, I taught Databases Lab, as well as Data Structures and Information Retrieval to
 Information Systems students. I used a combination of Latex, ”hand-made” Tikz forms, color, and other visual examples to illustrate
-abstract concepts in slides for freshman, together with lecture notes."
-    },
-    {
-      "company": "University of Hawaiʻi at Manoa",
-      "position": "Volunteer Teacher Assistant",
-      "website": "",
-      "startDate": "2016",
-      "endDate": "2017",
-      "summary": "I was previously a teacher assistant in Shidler School of Business on a PHP introductory class under Dr. Kazman.",
-      "highlights": [
-      ]
+abstract concepts for freshman, together with lecture notes."
     },
   {
       "company": "Universidade Federal da Bahia, Brazil",
-      "position": "Volunteer Teacher Assistant",
+      "position": "Undergraduate Teacher Assistant",
       "website": "",
       "startDate": "2014",
       "endDate": "2014",
@@ -243,17 +233,7 @@ supervision of the professor, assisted in creating material and grading, and org
       "organization": "International Conference on Machine Learning and Applications (ICMLA)",
       "website": "",
       "position": "Program Committee Member",
-      "startDate": "2019",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-      ]
-    },
-  {
-      "organization": "International Conference on Machine Learning and Applications (ICMLA)",
-      "website": "",
-      "position": "Program Committee Member",
-      "startDate": "2018",
+      "startDate": "2018,2019",
       "endDate": "",
       "summary": "",
       "highlights": [
@@ -307,14 +287,11 @@ supervision of the professor, assisted in creating material and grading, and org
       "endDate": "2016",
       "summary": "I volunteered as a data analyst for the Open Spending team of Open Knowledge Brazil Chapter, which was a finalist on Google
 Impact Challenge in Brazil.
-The project goal is ambitious, and seek to analyze the city and state of São Paulo, and also the federal’s fiscal year budget, serving
-as case study to implement the same method and tools to other cities. Mainly, the project seeks to read between the
-government’s budget lines and understand where tax money is being spent. My role in the team is to find, explore, pre-process,
-and analyze Brazil’s Fiscal Year Budget. Across the promised outcomes, my role more closely relates to help crafting stories, or by
-finding and exploring what data is available, help shape the presentation of it through the website and/or API. I am also exploring
-in parallel the open spending of Salvador, another city in Brazil and my hometown as both city and state’s budget data availability
-in parallel the open spending of Salvador, another city in Brazil and my hometown as both city and state’s budget data availability
-and organization vary considerable across the country.
+The project goal was to analyze the city and state of São Paulo, and also the federal's fiscal year budget, serving
+as case study to implement the same method and tools to other cities. Mainly, the project sought to read between the
+government’s budget lines and understand where tax money was spent. My role in the team was to help write data stories, 
+finding and exploring what data was available in existing outdated websites, and help make it available of it through our website and/or API. I also explored
+in parallel the open spending of Salvador, another city in Brazil and my hometown as both city and state’s budget data availability.
 ",
       "highlights": [
       ]
@@ -325,9 +302,8 @@ and organization vary considerable across the country.
       "position": "Chair of Student Chapter",
       "startDate": "2010",
       "endDate": "2011",
-      "summary": "I founded the first and only ACM student chapter of Brazil. Main chapter activities were initially focused on raising awareness
-(not well known in Brazil) and supporting local computer science events. The chapter was featured on XRDS, the student
-magazine of ACM on its first semester.",
+      "summary": "I founded the first and only ACM student chapter of Brazil. Main chapter activities were initially focused on raising awareness and supporting local computer science events. The chapter was featured on XRDS, the student
+magazine of ACM, on its first semester.",
       "highlights": [
       ]
     },
@@ -336,10 +312,10 @@ magazine of ACM on its first semester.",
       "website": "",
       "position": "Volunteer",
       "startDate": "2015",
-      "endDate": "Present",
+      "endDate": "2016",
       "summary": "Rede CsF is a non-profit organization based in Brazil and created by students who were awarded the Science Without Border
-scholarship from Brazil government. The non-profit is a return on investment to create projects in the country to improve Science,
-Technology, Innovation and Education. Within the network, I collaborate on the Open Data Awareness Project and the Intranet,
+scholarship from Brazil government. The non-profit is a return on investment to create projects in the country to improve science,
+technology, innovation and education. Within the network, I collaborate on the Open Data Awareness Project and the Intranet,
 the laterto coordinate over 40 contributors activities.",
       "highlights": [
       ]
@@ -363,7 +339,7 @@ the laterto coordinate over 40 contributors activities.",
     },
     {
       "title": "ICS Achievement Scholarship",
-      "date": "Fall 2017-2018",
+      "date": "Fall 2017-2019",
     "awarder": "University of Hawaiʻi at Manoa"
     },
    {
