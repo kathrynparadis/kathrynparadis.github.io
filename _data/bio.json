@@ -93,7 +93,7 @@
       "website": "",
       "startDate": "2016",
       "endDate": "Present",
-      "summary": "Working with Dr. Kazman and Dr. Wang on using social network analysis and topic
+      "summary": "Working with Dr. Kazman and Dr. Wang on using social network analysis, topic
 modeling and probability distribution similarity measures to identify, track and
 prioritize cybersecurity threats in a large, diversified corpora. My role in the group
 consists of overseeing master students' work, and investigating and applying text mining
@@ -111,14 +111,25 @@ algorithms that realize the project vision.",
 efficiency specialist Jim Maskrey in the Environmental Research and Design Lab
 (ERDL), I designed and created Lonoa (github.com/erdl/lonoa), a lightweight plugin 
 architecture for different sensor data for sustainability and thermal comfort studies. 
-The system simplifies routine continuous data acquisition, error logging, identification of 
+The system simplifies routine continuous data acquisition, error logging, and identification of 
 missing and incorrect data for analysts, requiring a minimal learning curve. I have also 
- thermal comfort analysis using pmv and the adaptive model 
+ performed thermal comfort analysis using pmv and the adaptive model 
  algorithms (github.com/erdl/thermal_comfort) and advised two cohorts of undergraduate 
  and master students in other projects in the lab.",
       "highlights": [
       ]
     },
+  {
+      "company": "NASA Ames Research Center",
+      "position": "Intern",
+      "website": "",
+      "startDate": "2018",
+      "endDate": "2018",
+      "summary": "Created a model of an attack surface between military drone communication by inserting a ‘liar’ 
+      script at the communication boundary using OpenUxAS, developed by the Air Force Research Laboratory.",
+      "highlights": [
+      ]
+    },    
   {
       "company": "University of Hawaiʻi at Manoa & Siemens",
       "position": "Graduate Research",
@@ -163,6 +174,29 @@ interest.",
       "highlights": [
       ]
     },
+    {
+      "company": "Universidade Federal da Bahia, Brazil",
+      "position": "Lecturer",
+      "website": "",
+      "startDate": "2013",
+      "endDate": "2014",
+      "summary": "At Universidade Federal da Bahia, Brazil, I taught Databases Lab, as well as Data Structures and Information Retrieval to
+Information Systems students. I used a combination of Latex, ”hand-made” Tikz forms, color, and other visual examples to illustrate
+abstract concepts for freshman, together with lecture notes."
+    },
+    {
+      "company": "Universidade Federal da Bahia, Brazil",
+      "position": "Undergraduate Teacher Assistant",
+      "website": "",
+      "startDate": "2014",
+      "endDate": "2014",
+      "summary": "While a student at Universidade Federal da Bahia, I’ve worked as a undergraduate teaching assistant for Formal and Automata Languages,
+Programming Logic for Computer Science, and Paradigms of Programming Languages. In all three classes I gave lectures under
+supervision of the professor, assisted in creating material and grading, and organized guests coding dojos for the class.
+",
+      "highlights": [
+      ]
+    },
   {
       "company": "University of Hawaiʻi at Manoa & Drexel University",
       "position": "Undergraduate Research",
@@ -176,7 +210,7 @@ algorithms and classification algorithms. Work was further published as a journa
       "highlights": [
       ]
     },
-  {
+    {
       "company": "Universidade Federal da Bahia - Formas",
       "position": "Undergraduate Research",
       "website": "",
@@ -190,8 +224,8 @@ literature review. Proposed enhancements on recommended coursework were
 further published.",
       "highlights": [
       ]
-    },
-  {
+    },    
+    {
       "company": "Universidade Federal da Bahia",
       "position": "Undergraduate Research",
       "website": "",
@@ -203,29 +237,6 @@ Eclipse plugins, exploratory data analysis and process mining. Results were furt
 published.",
       "highlights": [
       ]
-    },
-    {
-      "company": "Universidade Federal da Bahia, Brazil",
-      "position": "Lecturer",
-      "website": "",
-      "startDate": "2013",
-      "endDate": "2014",
-      "summary": "At Universidade Federal da Bahia, Brazil, I taught Databases Lab, as well as Data Structures and Information Retrieval to
-Information Systems students. I used a combination of Latex, ”hand-made” Tikz forms, color, and other visual examples to illustrate
-abstract concepts for freshman, together with lecture notes."
-    },
-  {
-      "company": "Universidade Federal da Bahia, Brazil",
-      "position": "Undergraduate Teacher Assistant",
-      "website": "",
-      "startDate": "2014",
-      "endDate": "2014",
-      "summary": "While a student at Universidade Federal da Bahia, I’ve worked as a undergraduate teaching assistant for Formal and Automata Languages,
-Programming Logic for Computer Science, and Paradigms of Programming Languages. In all three classes I gave lectures under
-supervision of the professor, assisted in creating material and grading, and organized guests coding dojos for the class.
-",
-      "highlights": [
-      ]
     }
   ],
   "volunteer": [
@@ -233,8 +244,8 @@ supervision of the professor, assisted in creating material and grading, and org
       "organization": "International Conference on Machine Learning and Applications (ICMLA)",
       "website": "",
       "position": "Program Committee Member",
-      "startDate": "2018,2019",
-      "endDate": "",
+      "startDate": "2018",
+      "endDate": "2019",
       "summary": "",
       "highlights": [
       ]
@@ -249,6 +260,26 @@ supervision of the professor, assisted in creating material and grading, and org
       "highlights": [
       ]
     },
+   {
+      "organization": "Intel Nervana",
+      "website": "",
+      "position": "Intel Nervana AI Academy Student Ambassador",
+      "startDate": "2017",
+      "endDate": "2018",
+      "summary": "",
+      "highlights": [
+      ]
+    },
+  {
+      "organization": "Code for Hawaiʻi",
+      "website": "",
+      "position": "Volunteer",
+      "startDate": "2017",
+      "endDate": "",
+      "summary": "I facilitate open-budget access for state of Hawaiʻi citizens, allowing them to make more informed decisions in choosing their state representatives by providing additional accessibility to candidates financial ties: Data cleaning and text linkage of various records concerning candidates campaign contribution distributed on different official pages of the state of Hawaiʻi are put together for navigation on a single website.",
+      "highlights": [
+      ]
+    },    
   {
       "organization": "EDBT/ICDT 2016 Joint Conference",
       "website": "",
@@ -258,27 +289,7 @@ supervision of the professor, assisted in creating material and grading, and org
       "summary": "",
       "highlights": [
       ]
-    },
-  {
-      "organization": "SGT at NASA Ames Research Center",
-      "website": "",
-      "position": "Intern",
-      "startDate": "2018",
-      "endDate": "",
-      "summary": "Created a model of an attack surface between military drone communication by inserting a ‘liar’ script at the communication boundary using OpenUxAS, developed by the Air Force Research Laboratory.",
-      "highlights": [
-      ]
-    },
-   {
-      "organization": "Intel Nervana",
-      "website": "",
-      "position": "Intel Nervana AI Academy Student Ambassador",
-      "startDate": "2017",
-      "endDate": "Present",
-      "summary": "",
-      "highlights": [
-      ]
-    },
+    },    
   {
       "organization": "Open Knowledge Brazil",
       "website": "",
@@ -296,17 +307,6 @@ in parallel the open spending of Salvador, another city in Brazil and my hometow
       "highlights": [
       ]
     },
-    {
-      "organization": "Association for Computing Machinery",
-      "website": "",
-      "position": "Chair of Student Chapter",
-      "startDate": "2010",
-      "endDate": "2011",
-      "summary": "I founded the first and only ACM student chapter of Brazil. Main chapter activities were initially focused on raising awareness and supporting local computer science events. The chapter was featured on XRDS, the student
-magazine of ACM, on its first semester.",
-      "highlights": [
-      ]
-    },
   {
       "organization": "Science without Borders Network 'Rede CsF'",
       "website": "",
@@ -320,16 +320,17 @@ the laterto coordinate over 40 contributors activities.",
       "highlights": [
       ]
     },
-  {
-      "organization": "Code for Hawaiʻi",
+    {
+      "organization": "Association for Computing Machinery",
       "website": "",
-      "position": "Volunteer",
-      "startDate": "2017",
-      "endDate": "",
-      "summary": "I facilitate open-budget access for state of Hawaiʻi citizens, allowing them to make more informed decisions in choosing their state representatives by providing additional accessibility to candidates financial ties: Data cleaning and text linkage of various records concerning candidates campaign contribution distributed on different official pages of the state of Hawaiʻi are put together for navigation on a single website.",
+      "position": "Chair of Student Chapter",
+      "startDate": "2010",
+      "endDate": "2011",
+      "summary": "I founded the first and only ACM student chapter of Brazil. Main chapter activities were initially focused on raising awareness and supporting local computer science events. The chapter was featured on XRDS, the student
+magazine of ACM, on its first semester.",
       "highlights": [
       ]
-    }
+    }    
   ],
   "awards": [
     {
@@ -342,6 +343,21 @@ the laterto coordinate over 40 contributors activities.",
       "date": "Fall 2017-2019",
     "awarder": "University of Hawaiʻi at Manoa"
     },
+    {
+      "title": "IEEE HKN",
+    "date": "2016-2017",
+    "awarder": "IEEE Honor Society HKN Delta Omega"
+    },
+  {
+      "title": "Golden Key Honors Member",
+    "date": "February 2015",
+    "awarder": "Golden Key International Honour Society"
+    },    
+  {
+      "title": "Featured Student Brazilian Award",
+    "date": "November 2013",
+    "awarder": "Brazilian Computer Society"
+    },
    {
       "title": "Science Without Borders - Capes and LASPAU",
       "date": "Spring 2012, Fall 2012",
@@ -351,22 +367,7 @@ the laterto coordinate over 40 contributors activities.",
       "title": "ACM UPE",
     "date": "April 2012",
     "awarder": "ACM Honor Society UPE"
-    },
-    {
-      "title": "IEEE HKN",
-    "date": "2016-2017",
-    "awarder": "IEEE Honor Society HKN Delta Omega"
-    },
-  {
-      "title": "Featured Student Brazilian Award",
-    "date": "November 2013",
-    "awarder": "Brazilian Computer Society"
-    },
-  {
-      "title": "Golden Key Honors Member",
-    "date": "February 2015",
-    "awarder": "Golden Key International Honour Society"
-    }
+    }    
   ],
   "references": [
     {
