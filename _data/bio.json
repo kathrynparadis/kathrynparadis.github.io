@@ -106,16 +106,16 @@ algorithms that realize the project vision.",
       "position": "Graduate Research",
       "website": "",
       "startDate": "2016",
-      "endDate": "Present",
+      "endDate": "2019",
       "summary": "Under the supervision of sustainability specialist Eileen Peppard, and energy
 efficiency specialist Jim Maskrey in the Environmental Research and Design Lab
-(ERDL), I am evaluating options to create and display a dashboard which shows the
-energy consumption and environmental data of two net-zero energy buildings. The
-buildings will be sub-metered to track energy consumption and equipped with
-sensors to collect environmental conditions. To reach net-zero, I will also be
-integrating energy use predictions as input to the dashboard to help the building
-occupants determine if they will achieve net-zero energy by the end of the calendar
-year.",
+(ERDL), I designed and created Lonoa (github.com/erdl/lonoa), a lightweight plugin 
+architecture for different sensor data for sustainability and thermal comfort studies. 
+The system simplifies routine continuous data acquisition, error logging, identification of 
+missing and incorrect data for analysts, requiring a minimal learning curve. I have also 
+ thermal comfort analysis using pmv and the adaptive model 
+ algorithms (github.com/erdl/thermal_comfort) and advised two cohorts of undergraduate 
+ and master students in other projects in the lab.",
       "highlights": [
       ]
     },
