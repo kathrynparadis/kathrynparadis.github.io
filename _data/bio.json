@@ -332,6 +332,89 @@ magazine of ACM, on its first semester.",
       ]
     }    
   ],
+  "publications": [
+    {
+      "name": "Measured: Student Learning Through Monitoring Existing Buildings’ Energy Use And Occupant Comfort",
+      "type": "conference",
+      "author": "Meguro, W., Paradis, C.",
+      "publisher": "ARCC 2019",
+      "releaseDate": "Date: To appear",
+      "website": "http://www.arcc-arch.org/2019-conference/",
+      "summary": ""
+    },
+    {
+      "name": "Towards Explaining Security Defects in Complex Autonomous Aerospace Systems",
+      "type": "conference",
+      "author": "Carlos Paradis, Rick Kazman, and Misty D. Davies",
+      "publisher": "AIAA Scitech 2019 Forum",
+      "releaseDate": "2019",
+      "website": "https://doi.org/10.2514/6.2019-0770",
+      "summary": ""
+    },
+    {
+      "name": "Indexing Text Related to Software Vulnerabilities in Noisy Communities Through Topic Modelling",
+      "type": "conference",
+      "author": "C. Paradis, R. Kazman and P. Wang",
+      "publisher": "2018 17th IEEE International Conference on Machine Learning and Applications (ICMLA 2018)",
+      "releaseDate": "2018",
+      "website": "https://doi.org/10.1109/ICMLA.2018.00121",
+      "summary": ""
+    },
+    {
+      "name": "Conway: Law or not?",
+      "type": "conference",
+      "author": "Wolfgang Mauerer, Mitchell Joblin, Damian Andrew Tamburri, Carlos Paradis, Sven Apel, and Rick Kazman",
+      "publisher": "2018 40th International Conference On Software Engineering 2018 (ICSE 2018)",
+      "releaseDate": "2018",
+      "website": "https://www.icse2018.org/event/icse-2018-posters-poster-conway-law-or-not-",
+      "summary": ""
+    },
+    {
+      "name": "Probabilistic Models for One-Day Ahead Solar Irradiance Forecasting in Renewable Energy Applications",
+      "type": "conference",
+      "author": "SILVA, Carlos V. A. ; LIM, Lipyeow ; STEVENS, Duane ; NAKAFUJI, Dora",
+      "publisher": " Internacional Conference on Machine Learning and Applications, Special Track on Machine Learning on Energy Applications (ICMLA 2015)",
+      "releaseDate": "2015",
+      "website": "https://doi.org/10.1109/ICMLA.2015.137",
+      "summary": ""
+    },
+    {
+      "name": "Manufacturing execution systems: A vision for managing software development, Journal of Systems and Software",
+      "type": "journal",
+      "author": "Martin Naedele, Hong-Mei Chen, Rick Kazman, Yuanfang Cai, Lu Xiao, Carlos V.A. Silva",
+      "publisher": "Journal of Systems and Software, Volume 101, Pages 59-68, ISSN 0164-1212",
+      "releaseDate": "2015",
+      "website": "http://dx.doi.org/10.1016/j.jss.2014.11.015",
+      "summary": ""
+    },
+    {
+      "name": "Mining Retention Rules from Student Transcripts: A Case Study of the Information Systems programme at a Federal University",
+      "type": "conference",
+      "author": "SILVA, C. V. A. ; SANTOS, M. S. ; Claro, D.B. ; Silva, Veronica ; SILVA, M. ; RIBEIRO, S. ; TELLES, A. R. ; LOPES, D.",
+      "publisher": "Anais do Simpósio Brasileiro de Informática na Educação, v. 1, p. 1, 2013",
+      "releaseDate": "2013",
+      "website": "http://dx.doi.org/10.5753/cbie.sbie.2013.577",
+      "summary": ""
+    },
+    {
+      "name": "An exploratory study to investigate the impact of conceptualization in god class detection",
+      "type": "conference",
+      "author": "SANTOS, JOSÉ A. M. ; DE MENDONÇA, MANOEL G. ; SILVA, CARLOS V. A",
+      "publisher": "Proceedings of the 17th International Conference on Evaluation and Assessment in Software Engineering - EASE ‘13",
+      "releaseDate": "2013",
+      "website": "https://doi.org/10.1145/2460999.2461007",
+      "summary": ""
+    },
+    {
+      "name": "Teaching Software Engineering Fundamentals in an Introductory Computer Programming Course",
+      "type": "conference",
+      "author": "ALMEIDA, E.S ; MACHADO, I. C. ; SILVA, C. V. A. ; GOMES, G. S. S.",
+      "publisher": "Fórum de Educação em Engenharia de Software (FEES), 2011, São Paulo",
+      "releaseDate": "2011",
+      "website": "http://fees.inf.puc-rio.br/FEESArtigos/papers_by_conference.lp?conference=FEES11",
+      "summary": ""
+    }          
+  ],  
   "awards": [
     {
       "title": "NASA award 80NSSC18M0114",
@@ -368,17 +451,5 @@ magazine of ACM, on its first semester.",
     "date": "April 2012",
     "awarder": "ACM Honor Society UPE"
     }    
-  ],
-  "references": [
-    {
-      "name": "Available upon request",
-      "reference": ""
-    }
-  ],
-  "references": [
-    {
-      "name": "Available upon request",
-      "reference": ""
-    }
   ]
 }
