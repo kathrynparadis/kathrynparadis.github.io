@@ -88,154 +88,191 @@
   ],
   "work": [
     {
+      "company": "University of Hawaiʻi at Manoa & NASA Ames",
+      "position": "Graduate Research",
+      "website": "",
+      "startDate": "07/26/2018",
+      "endDate": "Current",
+      "summary": "Identify novel safety incidents based on textual narratives for NASA's Aviation Safety Reporting System (ASRS)",
+      "highlights": [      
+        "Definition and analysis of the performance of unsupervised text clustering algorithms",
+        "Definition and analysis of heuristics to assess the stability of machine learning results",
+        "Identify published methodologies for interpretation of text clustering results",
+        "Reuse and improvement of Legacy Code, and creation of data pipelines to supply data visualization tools ",
+        "Demos: 1) http://www2.hawaii.edu/~cvas/topicflow/ ; 2) http://www2.hawaii.edu/~cvas/termite/ "
+      ]
+    }, 
+    {
+      "company": "Staffing Solutions at Kaiser Permanente",
+      "position": "Intern/Data Analyst",
+      "website": "",
+      "startDate": "05/15/2017",
+      "endDate": "04/03/2020",
+      "summary": "",
+      "highlights": [
+        "Designed and enhanced databases for predictive and prescriptive analytics",
+        "Designed and evaluated the effectiveness of statistical, probabilistic, and machine learning models",
+        "Elicited requirements, goals, and priorities from clinical and technical subject matter experts",
+        "Participated in the development of potential solutions, including outcome and process measures, and technical specifications",
+        "Translated needs, issues, and ideas into improved processes for patient care",
+        "Formulated specific implementation plans and evaluated the effectiveness of actions/programs implemented",
+        "Communicated results/recommendations to project sponsors, clients, and various senior level audiences"
+      ]
+    },          
+    {
       "company": "University of Hawaiʻi at Manoa & University of Maryland",
       "position": "Graduate Research",
       "website": "",
-      "startDate": "2016",
-      "endDate": "Present",
-      "summary": "Working with Dr. Kazman and Dr. Wang on using social network analysis, topic
-modeling and probability distribution similarity measures to identify, track and
-prioritize cybersecurity threats in a large, diversified corpora. My role in the group
-consists of overseeing master students' work, and investigating and applying text mining
-algorithms that realize the project vision.",
+      "startDate": "08/2016",
+      "endDate": "03/2020",
+      "summary": "Identified CVE-related Software Vulnerability Discourse on Online Mailing List using Topic Modelling",
       "highlights": [
+        "Created Python Crawler to parse HTML Mailing Lists",
+        "Created taxonomy to classify different pre-processing strategies of raw corpus",
+        "Coded review student work via Github's pull requests",
+        "Performed Topic Modelling using R and LDA",
+        "Conference Article: https://doi.org/10.1109/ICMLA.2018.00121"
       ]
     },
+ 
+
     {
-      "company": "University of Hawaiʻi at Manoa",
-      "position": "Graduate Research",
+      "company": "University of Hawaiʻi at Manoa - School of Architecture",
+      "position": "Graduate Research / Data Engineer",
       "website": "",
-      "startDate": "2016",
-      "endDate": "2019",
-      "summary": "Under the supervision of sustainability specialist Eileen Peppard, and energy
-efficiency specialist Jim Maskrey in the Environmental Research and Design Lab
-(ERDL), I designed and created Lonoa (github.com/erdl/lonoa), a lightweight plugin 
-architecture for different sensor data for sustainability and thermal comfort studies. 
-The system simplifies routine continuous data acquisition, error logging, and identification of 
-missing and incorrect data for analysts, requiring a minimal learning curve. I have also 
- performed thermal comfort analysis using pmv and the adaptive model 
- algorithms (github.com/erdl/thermal_comfort) and advised two cohorts of undergraduate 
- and master students in other projects in the lab.",
+      "startDate": "03/11/2016",
+      "endDate": "12/31/2019",
+      "summary": "Python coded data pipelines for sensor data processing, database storage, and R coded thermal comfort analyses. Performed Unix server administration duties to support architecture researchers.",
       "highlights": [
+        "Simplified knowledge management and workflow between supervisor and students from architecture, engineering, and computer science",
+        "Proposed and code-reviewed a new continuous python sensor data collection plug-in architecture for the lab in Python, Lonoa (github.com/erdl/lonoa)",
+        "Implemented and explained model constraints for ASHRAE-55 PMV/PPD and Adaptive thermal comfort models (github.com/erdl/thermal_comfort).",
+        "Provided System Administrator support for the lab (SSH Access, Unix Package Management, and Security)",
+        "Proposed, designed, and code reviewed two Raspberry PI Environmental Projects (awarded Intel NCS Funding)",
+        "Designed database schema and code reviewed survey station code for environmental experiments (github.com/erdl/survey_admin)",
+        "Mentored undergraduate and master student projects",
+        "Conference Article: To appear: www.arcc-arch.org/2019-conference/"        
       ]
     },
   {
-      "company": "NASA Ames Research Center",
-      "position": "Intern",
+      "company": "SGT at NASA Ames Research Center",
+      "position": "Intern II",
       "website": "",
-      "startDate": "2018",
-      "endDate": "2018",
+      "startDate": "05/21/2018",
+      "endDate": "08/17/2018",
       "summary": "Created a model of an attack surface between military drone communication by inserting a ‘liar’ 
       script at the communication boundary using OpenUxAS, developed by the Air Force Research Laboratory.",
       "highlights": [
+        "Conference Article: doi.org/10.2514/6.2019-0770"
       ]
     },    
   {
       "company": "University of Hawaiʻi at Manoa & Siemens",
       "position": "Graduate Research",
       "website": "",
-      "startDate": "2015",
-      "endDate": "2018",
-      "summary": "Worked with Dr. Kazman and Dr. Mauerer on associations between software
-companies' organizational structure and their software products. Created scripts to
-calculate metrics from version control systems, issue trackers and static metrics to
-evaluate motifs on code collaboration social networks and discussion social networks.",
+      "startDate": "09/2015",
+      "endDate": "12/2018",
+      "summary": "Identified associations between software companies' organizational structure and their software products.",
       "highlights": [
+         "Created scripts to calculate metrics from version control systems and issue trackers",
+         "Defined static metrics to evaluate graph motifs on code collaboration social networks and discussion social networks",
+         "Conference Poster: icse2018.org/event/icse-2018-posters-poster-conway-law-or-not-",
       ]
     },
   {
       "company": "University of Hawaiʻi at Manoa & HECO",
       "position": "Graduate Research",
       "website": "",
-      "startDate": "2015",
-      "endDate": "2016",
-      "summary": "Worked with Dr. Lim, Dr. Stevens and HECO on Data mining/analytics of weather
-related data for renewable (solar) energy management in Hawaiʻi. I created a pipeline
-to harvest data from various sensors across Hawaiʻi, scrape associated metadata
-through websites and several visualizations to identify missing or biased values
-through multiple years. Clustering methods to address time series granularity,
-probabilistic and linear models were also used to forecast solar irradiation on
-different sites. Results were published in ICMLA 2015 and my
-Master Thesis.",
+      "startDate": "01/01/2015",
+      "endDate": "08/31/2015",
+      "summary": "Performed data mining/analytics of weather related data for renewable (solar) energy management in Hawaiʻi. (Master Thesis)",
       "highlights": [
+        "Created a pipeline to collect data from various sensors across Hawaiʻi",
+        "Scrape associated metadata through websites and several visualizations to identify missing or biased values through multiple years",
+        "Used cluster methods to address time series granularity, probabilistic and linear models were also used to forecast solar irradiation on different sites",
+        "Conference Article: doi.org/10.1109/ICMLA.2015.137"
       ]
     },
   {
-      "company": "University of Hawaiʻi at Manoa",
+      "company": "University of Hawaiʻi at Manoa - Office of Public Health Studies",
       "position": "Graduate Research",
       "website": "",
-      "startDate": "2015",
-      "endDate": "2015",
-      "summary": "Worked with ScD. Fan on analysis of cross-sectional surveys conducted in Ethiopia by
-DHS to identify effects between sanitation and malnutrition. Assigned duties
-included systematic review (database search, snowballing and inverse snowballing),
-survey data pre-processing / cleaning and correlation analysis of variables of
-interest.",
+      "startDate": "03/12/2015",
+      "endDate": "05/06/2015",
+      "summary": "Analyzed cross-sectional surveys conducted in Ethiopia by DHS to identify effects between sanitation and malnutrition.",
       "highlights": [
+        "Performed systematic review (database search, snowballing, and inverse snowballing)",
+        "Surveyed, data pre-processed / cleansed and performed correlation analysis of variables of interest"
       ]
     },
     {
       "company": "Universidade Federal da Bahia, Brazil",
       "position": "Lecturer",
       "website": "",
-      "startDate": "2013",
-      "endDate": "2014",
-      "summary": "At Universidade Federal da Bahia, Brazil, I taught Databases Lab, as well as Data Structures and Information Retrieval to
-Information Systems students. I used a combination of Latex, ”hand-made” Tikz forms, color, and other visual examples to illustrate
-abstract concepts for freshman, together with lecture notes."
+      "startDate": "10/2013",
+      "endDate": "02/2014",
+      "summary": "Lecturer for Information Systems Major",
+      "highlights": [
+        "Databases Lab",
+        "Data Structures",
+        "Information Retrieval",
+        "Material: I used a combination of lecture notes, Latex, ”hand-made” Tikz forms, color, and other visual examples to illustrate abstract concepts for freshman"
+      ]
+
     },
     {
       "company": "Universidade Federal da Bahia, Brazil",
       "position": "Undergraduate Teacher Assistant",
       "website": "",
-      "startDate": "2014",
-      "endDate": "2014",
-      "summary": "While a student at Universidade Federal da Bahia, I’ve worked as a undergraduate teaching assistant for Formal and Automata Languages,
-Programming Logic for Computer Science, and Paradigms of Programming Languages. In all three classes I gave lectures under
-supervision of the professor, assisted in creating material and grading, and organized guests coding dojos for the class.
-",
+      "startDate": "2012",
+      "endDate": "2013",
+      "summary": "Teacher Assistant for Computer Science Major",
       "highlights": [
+          "Formal and Automata Languages",
+          "Programming Logic for Computer Science",
+          "Paradigms of Programming Languages",
+          "Activities consisted of giving lectures under professor supervision, assisted in creating material and grading, and organized guests coding dojos"
       ]
     },
   {
       "company": "University of Hawaiʻi at Manoa & Drexel University",
       "position": "Undergraduate Research",
       "website": "",
-      "startDate": "2012",
-      "endDate": "2013",
-      "summary": "Worked with Dr. Kazman and Dr. Cai to identify patterns of effort in software using R
-and Python. Activities consisted of data gathering (website, .xml, .csv, .xlsx), storage
-(PostgreSQL), and reports based on exploratory data analysis, clustering
-algorithms and classification algorithms. Work was further published as a journal.",
+      "startDate": "01/2012",
+      "endDate": "12/2013",
+      "summary": "Identified patterns of effort in software development.",
       "highlights": [
+        "Gathered source code and issue tracker data (website, .xml, .csv, .xlsx) using Python and R and storage (PostgreSQL)",
+        "Performed summary statistics and correlation analysis reports",
+        "Journal Article: dx.doi.org/10.1016/j.jss.2014.11.015"
       ]
     },
     {
       "company": "Universidade Federal da Bahia - Formas",
       "position": "Undergraduate Research",
       "website": "",
-      "startDate": "2013",
-      "endDate": "2013",
-      "summary": "Worked with Dr. Claro and colleagues in identifying patterns that would lead to
-STEM Student Retention in U. Federal da Bahia. Activities consisted of data
-gathering (PDF format transcripts), storage (definition of schema and population of a
-PostgreSQL database), exploratory data analysis, association rule learning and
-literature review. Proposed enhancements on recommended coursework were
-further published.",
+      "startDate": "11/2012",
+      "endDate": "07/2013",
+      "summary": "Identified patterns that would lead to STEM student retention in U. Federal da Bahia.",
       "highlights": [
+        "Gathered and processed data (PDF format transcripts)", 
+        "Created schema and data population pipeline of a PostgreSQL database",
+        "Performed exploratory data analysis, association rule learning, and literature review.",
+        "Conference Article: http://doi.org/10.1109/ICMLA.2015.137"
       ]
     },    
     {
       "company": "Universidade Federal da Bahia",
       "position": "Undergraduate Research",
       "website": "",
-      "startDate": "2012",
-      "endDate": "2012",
-      "summary": "Worked with Dr. Mendonça and Amancio Santos in analyzing Eclipse IDE usage by
-capturing point and click on logs. Activities consisted of data collection (.csv) by
-Eclipse plugins, exploratory data analysis and process mining. Results were further
-published.",
+      "startDate": "07/2011",
+      "endDate": "03/2013",
+      "summary": "Tracked and analyzed programmer behavior Eclipse IDE usage to better understand the impact of conceptualization in god class detection.",
       "highlights": [
+         "Captured point and click on logs using Eclipse plugins",
+         "Collected and processed sequence data (.csv)",
+         "Performed exploratory data analysis and process mining",
+         "Conference Article: doi.org/10.1145/2460999.2461007"
       ]
     }
   ],
@@ -423,9 +460,14 @@ magazine of ACM, on its first semester.",
     },
     {
       "title": "ICS Achievement Scholarship",
-      "date": "Fall 2017-2019",
+      "date": "Fall 2017-2020",
     "awarder": "University of Hawaiʻi at Manoa"
     },
+    {
+      "title": "Featured Idea and Intel NCS Funding",
+      "date": "Fall 2017",
+    "awarder": "Intel",
+    },    
     {
       "title": "IEEE HKN",
     "date": "2016-2017",
