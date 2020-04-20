@@ -5,7 +5,7 @@
     "picture": "https://carlosparadis.github.io/images/profile_portfolio.png",
     "email": "cvas@hawaii.edu",
     "phone": "",
-    "website": "https://github.com/carlosparadis",
+    "website": "http://carlosparadis.com",
     "summary": "I am a Ph.D. student in Computer Science. My dissertation focuses on the usefulness of automated groupings of text documents, in particular, their interpretability by humans.",
     "location": {
       "address": "",
@@ -18,7 +18,7 @@
       {
         "network": "github",
         "username": "carlosparadis",
-        "url": "https://carlosparadis.github.io"
+        "url": "https://github.com/carlosparadis"
       }
     ]
   },
