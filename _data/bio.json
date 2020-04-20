@@ -5,8 +5,8 @@
     "picture": "https://carlosparadis.github.io/images/profile_portfolio.png",
     "email": "cvas@hawaii.edu",
     "phone": "",
-    "website": "https://carlosparadis.github.io",
-    "summary": "I am a PhD student in Computer Science. My dissertation seeks to create a framework to predict software vulnerabilities both in code and online discussion on the web.",
+    "website": "https://github.com/carlosparadis",
+    "summary": "I am a Ph.D. student in Computer Science. My dissertation focuses on the usefulness of automated groupings of text documents, in particular, their interpretability by humans.",
     "location": {
       "address": "",
       "postalCode": "96822",
@@ -24,12 +24,22 @@
   },
   "interests": [
     {
-      "name": "data mining",
+      "name": "text mining",
       "keywords": [
       ]
     },
     {
-      "name": "software vulnerabilities",
+      "name": "text representation",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "text interpretability",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "data for the public good",
       "keywords": [
       ]
     }
