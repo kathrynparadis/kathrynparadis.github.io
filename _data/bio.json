@@ -17,9 +17,19 @@
     "profiles": [
       {
         "network": "github",
-        "username": "carlosparadis",
+        "username": "GitHub: carlosparadis",
         "url": "https://github.com/carlosparadis"
-      }
+      },
+      {
+        "network": "file outline",
+        "username": "Publons: AAA-3387-2020",
+        "url": "https://publons.com/researcher/AAA-3387-2020/"
+      },
+      {
+        "network": "circle",
+        "username": "ORCID: 0000-0002-3062-7547",
+        "url": "https://orcid.org/0000-0002-3062-7547"
+      } 
     ]
   },
   "interests": [
@@ -98,18 +108,38 @@
   ],
   "work": [
     {
-      "company": "University of Hawaiʻi at Manoa & NASA Ames",
+      "company": "University of Hawaiʻi at Manoa  - Shidler School of Business",
+      "position": "Graduate Research",
+      "website": "",
+      "startDate": "01/01/2020",
+      "endDate": "Current",
+      "summary": "Create a system to analyze software vulnerabilities evolution by mining software repositories ecosystems",
+      "highlights": [      
+        "Identify prospective methods to identify poor software development process in collaboration, coordination and communication",
+        "Identify prospective methods to identify poor architectural practices",
+        "Create a method to construct timelines of software vulnerabilities",
+        "Perform a case study in OpenSSL applying identified methods, in particular Heartbleed",
+        "Create an R package implementing final methodology, and reproducible results ",
+        "Work-in-progress Demo: http://itm0.shidler.hawaii.edu/kaiaulu"
+      ]
+    },     
+    {
+      "company": "University of Hawaiʻi at Manoa - Shidler School of Business",
       "position": "Graduate Research",
       "website": "",
       "startDate": "07/26/2018",
       "endDate": "Current",
       "summary": "Identify novel safety incidents based on textual narratives for NASA's Aviation Safety Reporting System (ASRS)",
       "highlights": [      
-        "Definition and analysis of the performance of unsupervised text clustering algorithms",
-        "Definition and analysis of heuristics to assess the stability of machine learning results",
+        "Definition and analysis of the performance, stability and random effects of unsupervised text clustering algorithms",
+        "Definition of a protocol and design of survey  heuristics to assess the stability of machine learning results",
         "Identify published methodologies for interpretation of text clustering results",
+        "Define an IRB compliant survey protocol for evaluation of different text clustering interpretation methodologies",
         "Reuse and improvement of Legacy Code, and creation of data pipelines to supply data visualization tools ",
-        "Demos: 1) http://www2.hawaii.edu/~cvas/topicflow/ ; 2) http://www2.hawaii.edu/~cvas/termite/ "
+        "Demos: 1) http://www2.hawaii.edu/~cvas/topicflow/ ; 2) http://www2.hawaii.edu/~cvas/termite/ ",
+        "Create an R package implementing final methodology, and reproducible results",
+        "Work-in-progress Demo: http://itm0.shidler.hawaii.edu/kaona",
+        "Conference Article: To appear in AIAA Scitech Forum 2021"
       ]
     }, 
     {
@@ -161,7 +191,7 @@
         "Proposed, designed, and code reviewed two Raspberry PI Environmental Projects (awarded Intel NCS Funding)",
         "Designed database schema and code reviewed survey station code for environmental experiments (github.com/erdl/survey_admin)",
         "Mentored undergraduate and master student projects",
-        "Conference Article: To appear: www.arcc-arch.org/2019-conference/"        
+        "Conference Article: http://www.arcc-arch.org/past-conferences/ (ARCC 2019 Conference Proceedings)"        
       ]
     },
   {
@@ -287,22 +317,22 @@
     }
   ],
   "volunteer": [
+      {
+      "organization": "Journal of Aerospace Information Systems (JAIS)",
+      "website": "",
+      "position": "External Reviewer",
+      "startDate": "2018",
+      "endDate": "2020",
+      "summary": "",
+      "highlights": [
+      ]
+    },
      {
       "organization": "International Conference on Machine Learning and Applications (ICMLA)",
       "website": "",
       "position": "Program Committee Member",
       "startDate": "2018",
       "endDate": "2019",
-      "summary": "",
-      "highlights": [
-      ]
-    },
-  {
-      "organization": "Journal of Aerospace Information Systems (JAIS)",
-      "website": "",
-      "position": "External Reviewer",
-      "startDate": "2018",
-      "endDate": "",
       "summary": "",
       "highlights": [
       ]
@@ -381,12 +411,21 @@ magazine of ACM, on its first semester.",
   ],
   "publications": [
     {
+      "name": "Augmenting Topic Finding in the NASA Aviation Safety Reporting System using Topic Modeling",
+      "type": "conference",
+      "author": "Carlos Paradis, Rick Kazman, Misty Davies, Becky Hooey",
+      "publisher": "2021 AIAA SciTech Forum",
+      "releaseDate": "Date: To appear",
+      "website": "https://www.aiaa.org/SciTech",
+      "summary": ""
+    },    
+    {
       "name": "Measured: Student Learning Through Monitoring Existing Buildings’ Energy Use And Occupant Comfort",
       "type": "conference",
       "author": "Meguro, W., Paradis, C.",
-      "publisher": "ARCC 2019",
-      "releaseDate": "Date: To appear",
-      "website": "http://www.arcc-arch.org/2019-conference/",
+      "publisher": "Architectural Research Centers Consortium (ARCC)",
+      "releaseDate": "2019",
+      "website": "http://www.arcc-arch.org/past-conferences/",
       "summary": ""
     },
     {
@@ -463,11 +502,6 @@ magazine of ACM, on its first semester.",
     }          
   ],  
   "awards": [
-    {
-      "title": "NASA award 80NSSC18M0114",
-      "date": "Fall 2018-Present",
-    "awarder": "NASA"
-    },
     {
       "title": "ICS Achievement Scholarship",
       "date": "Fall 2017-2020",
